@@ -1,0 +1,1228 @@
+id_site,site_name,id_core,core_name,country_name,region_name,latitude,longitude
+1,Cygnet,1,Cygnet_core1,United States,Northern America,44.66,-110.61
+2,Slough Creek Pond,2,Slough Creek Pond_core1,United States,Northern America,44.91,-110.34
+3,Burnt Knob,3,Burnt Knob_core1,United States,Northern America,45.7,-114.98
+4,Baker,4,Baker_core1,United States,Northern America,45.89,-114.26
+5,Hoodoo,5,Hoodoo_core1,United States,Northern America,46.32,-114.65
+6,Pintlar,6,Pintlar_core1,United States,Northern America,45.84,-113.44
+7,Foy,7,Foy_core1,United States,Northern America,48.16,-114.35
+8,Bolan,8,Bolan_core1,United States,Northern America,42.02,-123.46
+9,Bluff,9,Bluff_core1,United States,Northern America,41.34,-122.55
+10,Cedar,10,Cedar_core1,United States,Northern America,41.2,-122.49
+11,Crater Lake CA,11,Crater Lake CA_core1,United States,Northern America,41.38,-122.57
+12,Mumbo,12,Mumbo_core1,United States,Northern America,41.19,-122.5
+13,Trail,13,Trail_core1,United States,Northern America,44.28,-110.17
+14,Lost,14,Lost_core1,United States,Northern America,45.82,-123.57
+15,Little,15,Little_core1,United States,Northern America,44.16,-123.58
+16,Taylor,16,Taylor_core1,United States,Northern America,46.1,-123.9
+17,Abalone Rocks Marsh,17,Abalone Rocks Marsh_core1,United States,Northern America,33.95,-119.97
+18,Beach,18,Beach_core1,Canada,Northern America,65.21,-127.05
+19,Beef Pasture,19,Beef Pasture_core1,United States,Northern America,37.41,-108.15
+20,Como,20,Como_core1,United States,Northern America,37.55,-105.5
+21,Crane,21,Crane_core1,United States,Northern America,36.71,-112.21
+22,Excelsior Basin,22,Excelsior Basin_core1,Canada,Northern America,52.78,-117.11
+23,Fariya,23,Fariya_core1,Canada,Northern America,59.84,-111.29
+24,Forest Pond 1,24,Forest Pond 1_core1,United States,Northern America,43.47,-109.93
+25,Forest Pond 2,25,Forest Pond 2_core1,United States,Northern America,43.43,-109.95
+26,Frying Pan,26,Frying Pan_core1,United States,Northern America,38.61,-111.66
+27,Head,27,Head_core1,United States,Northern America,37.69,-105.73
+28,Howes Prairie Marsh,28,Howes Prairie Marsh_core1,United States,Northern America,41.65,-87.07
+29,Maligne Lake,29,Maligne Lake_core1,United States,Northern America,52.73,-117.61
+30,Montezuma Well,30,Montezuma Well_core1,United States,Northern America,34,-112
+31,Ninisith Lake,31,Ninisith Lake_core1,Canada,Northern America,59.58,-113
+32,Park Pond 1,32,Park Pond 1_core1,United States,Northern America,43.46,-109.95
+33,Park Pond 2,33,Park Pond 2_core1,United States,Northern America,43.45,-109.94
+34,Park Pond 3,34,Park Pond 3_core1,United States,Northern America,43.45,-109.92
+35,Posy Lake,35,Posy Lake_core1,United States,Northern America,37.95,-111.7
+36,Rainbow Lake A,36,Rainbow Lake A_core1,Canada,Northern America,59.8,-112.16
+37,Sagehen Marsh,37,Sagehen Marsh_core1,United States,Northern America,37.47,-108.5
+38,San Joaquin Marsh,38,San Joaquin Marsh_core1,United States,Northern America,33.65,-117.85
+39,Swamp Lake,39,Swamp Lake_core1,United States,Northern America,37.95,-119.81
+40,Tonquin Creek,40,Tonquin Creek_core1,Canada,Northern America,52.73,-118.36
+41,Wilcox Pass,41,Wilcox Pass_core1,Canada,Northern America,52.24,-117.21
+42,Carp,,,France,Europe,,
+43,Dog Lake,43,Dog Lake_core1,Canada,Northern America,50.76,-116.1
+44,Frozen,44,Frozen_core1,Canada,Northern America,49.6,-121.46
+45,Mount Barr Cirque,45,Mount Barr Cirque_core1,Canada,Northern America,49.26,-121.51
+46,Martins,46,Martins_core1,United States,Northern America,47.71,-123.54
+47,Moose,47,Moose_core1,United States,Northern America,47.88,-123.35
+48,Laguna Chaplin,48,Laguna Chaplin_core1,Bolivia,Southern America,-14.46,-61.06
+49,Laguna Bella Vista,49,Laguna Bella Vista_core1,Bolivia,Southern America,-13.61,-61.55
+50,Lake Titicaca,50,Lake Titicaca_core1,Bolivia,Southern America,-16.13,-69.15
+51,Siberia 93-1,51,Siberia 93-1_core1,Bolivia,Southern America,-17.83,-64.71
+52,Surucucho,52,Surucucho_core1,Ecuador,Southern America,-3.06,-78
+53,Laguna Chorreras,53,Laguna Chorreras_core1,Ecuador,Southern America,-2.75,-79.16
+54,Laguna Pallcacocha,54,Laguna Pallcacocha_core1,Ecuador,Southern America,-2.75,-79.16
+55,Laguna de Chochos,55,Laguna de Chochos_core1,Peru,Southern America,-7.63,-77.47
+56,Comprida,56,Comprida_core1,Brazil,Southern America,-1.62,-53.99
+57,Geral,57,Geral_core1,Brazil,Southern America,-1.64,-53.59
+58,Cerro de los Inocentes,58,Cerro de los Inocentes_core1,Chile,Southern America,-33.77,-80.76
+59,Ghab,59,Ghab_core1,Syria,Middle East,35.65,36.25
+60,Chernaya NG-2,60,Chernaya NG-2_core1,Ukraine,Europe,44.56,33.62
+61,Yaila-Crimea,61,Yaila-Crimea_core1,Ukraine,Europe,44.48,34.05
+62,Wadi Shallalah,62,Wadi Shallalah_core1,Jordan,Middle East,32.59,35.94
+63,Lake Suho Breznishko,63,Lake Suho Breznishko_core1,Bulgaria,Europe,41.81,23.35
+64,Lake Okadensko,64,Lake Okadensko_core1,Bulgaria,Europe,41.78,23.35
+65,Lake Van,65,Lake Van_core1,Turkey,Middle East,38.55,42.53
+66,Papallacta,66,Papallacta_core1,Ecuador,Southern America,-0.38,-78.14
+67,Lake Facil,67,Lake Facil_core1,Chile,Southern America,-44.32,-74.28
+68,Laguna Venus,68,Laguna Venus_core1,Chile,Southern America,-45.53,-72.01
+69,Quilichao-1,69,Quilichao-1_core1,Colombia,Southern America,3.1,-76.51
+70,La-Teta-2,70,La-Teta-2_core1,Colombia,Southern America,3.08,-76.53
+71,El Patia-1,71,El Patia-1_core1,Colombia,Southern America,2.03,-77
+72,Lago do Pires,72,Lago do Pires_core1,Brazil,Southern America,-17.95,-42.21
+73,Laguna Las Margaritas,73,Laguna Las Margaritas_core1,Colombia,Southern America,3.38,-73.43
+74,Morro de Itapeva,74,Morro de Itapeva_core1,Brazil,Southern America,-22.78,-45.57
+75,Serra Campos Gerais,75,Serra Campos Gerais_core1,Brazil,Southern America,-24.66,-50.21
+76,Catas Altas,76,Catas Altas_core1,Brazil,Southern America,-20.08,-43.36
+77,Lago Crispim,77,Lago Crispim_core1,Brazil,Southern America,-0.62,-47.64
+78,Rio Curua,78,Rio Curua_core1,Brazil,Southern America,-1.73,-51.45
+79,Fazendo do Pinto,79,Fazendo do Pinto_core1,Brazil,Southern America,-29.4,-50.56
+80,Lagoa Nova,80,Lagoa Nova_core1,Brazil,Southern America,-17.95,-42.2
+81,Cambara do Sul,81,Cambara do Sul_core1,Brazil,Southern America,-29.05,-50.1
+82,Dune Lake,82,Dune Lake_core1,United States,Northern America,64.41,-149.9
+83,Trebol Lake,83,Trebol Lake_core1,Argentina,Southern America,-41.07,-71.49
+84,Mosquito Lake,84,Mosquito Lake_core1,Argentina,Southern America,-42.49,-71.4
+86,Dongganchi site,86,Dongganchi site_core1,China,Central Asia,40.2,116
+87,Kunming lake CK3 core,87,Kunming lake CK3 core_core1,China,Central Asia,39.98,116.26
+88,Nanwangcun natural profile,88,Nanwangcun natural profile_core1,China,Central Asia,37,118
+89,Qindeli peat section,89,Qindeli peat section_core1,China,Central Asia,47.92,133.22
+90,Yangjiawan paleosoil section,90,Yangjiawan paleosoil section_core1,China,Central Asia,39.46,110.17
+91,ETC site,91,ETC site_core1,China,Central Asia,35,107
+92,Xishan relic site,92,Xishan relic site_core1,China,Central Asia,34.91,113.53
+93,Muchang peat section,93,Muchang peat section_core1,China,Central Asia,43.03,122.2
+94,loess-palaeosoil profile at Jiangyang Village,94,loess-palaeosoil profile at Jiangyang Village_core,China,Central Asia,34.36,107.49
+95,DXF-S profile,95,DXF-S profile_core1,China,Central Asia,35.25,111.36
+96,Erhai Lake,96,Erhai Lake_core1,China,Central Asia,25.76,100.2
+97,Daxigou profile,97,Daxigou profile_core1,China,Central Asia,43.14,86.91
+98,Lijiayuan section,98,Lijiayuan section_core1,China,Central Asia,36.11,104.85
+99,Lingtai section,99,Lingtai section_core1,China,Central Asia,35,107.5
+100,Weinan section1,100,Weinan section1_core1,China,Central Asia,34.06,109
+101,Weinan section2,101,Weinan section2_core1,China,Central Asia,34.33,109.52
+102,Huguangyan Maar Lake,102,Huguangyan Maar Lake_core1,China,Central Asia,21.15,110.28
+103,Longgan Lake core,103,Longgan Lake core_core1,China,Central Asia,30.16,116.16
+104,Alamo Bog,104,Alamo Bog_core1,United States,Northern America,35.91,-106.58
+105,Chihuahueños Bog,105,Chihuahueños Bog_core1,United States,Northern America,36.04,-106.5
+106,Sao Francisco de Assis,106,Sao Francisco de Assis_core1,Brazil,Southern America,-29.58,-55.21
+107,Lagoa do Caco,107,Lagoa do Caco_core1,Brazil,Southern America,-2.97,-43.26
+108,Crominia,108,Crominia_core1,Brazil,Southern America,-17.27,-49.41
+109,Lac Francis,109,Lac Francis_core1,Canada,Northern America,48.52,-79.47
+110,Lac Pessière,110,Lac Pessière_core1,Canada,Northern America,49.5,-79.24
+111,Pas-de-Fond,111,Pas-de-Fond_core1,Canada,Northern America,48.8,-78.83
+112,Lattok Lake,112,Lattok Lake_core1,Sweden,Europe,65.95,18.34
+113,Raigejegge,113,Raigejegge_core1,Sweden,Europe,66.15,18.21
+114,Lovnas Lake,114,Lövnäs Lake_core1,Sweden,Europe,66.31,17.9
+115,Patterson Lake,115,Patterson Lake_core1,United States,Northern America,41.38,-120.22
+116,Lily Lake,116,Lily Lake_core1,United States,Northern America,41.97,-120.2
+117,Dead Horse Lake,117,Dead Horse Lake_core1,United States,Northern America,42.56,-120.77
+118,Lago di Massaciuccoli,118,Lago di Massaciuccoli_core1,Italy,Europe,43.85,10.31
+120,Coast Trail Pond,120,Coast Trail Pond_core1,United States,Northern America,37.98,-122.8
+121,DeHerrera Lake,121,DeHerrera Lake_core1,United States,Northern America,37.74,-107.7
+122,Hunter's Lake,122,Hunter's Lake_core1,United States,Northern America,37.6,-106.84
+123,Jicarita Bog,123,Jicarita Bog_core1,United States,Northern America,36.07,-105.58
+124,Little Molas Lake,124,Little Molas Lake_core1,United States,Northern America,37.74,-107.7
+125,Paradox Lake,125,Paradox Lake_core1,United States,Northern America,60.62,-150.75
+126,Alexander Selkirk,,,Chile,Southern America,,
+127,Laguna Aculeo,127,Laguna Aculeo_core1,Argentina,Southern America,-33.83,-70.91
+128,Tagua Tagua,128,Tagua Tagua_core1,Chile,Southern America,-34.5,-71.16
+129,Rucañancu,129,Rucañancu_core1,Chile,Southern America,-39.55,-72.3
+130,El Salto,130,El Salto_core1,Chile,Southern America,-41.64,-73.09
+131,Lago Condorito,131,Lago Condorito_core1,Chile,Southern America,-41.75,-73.11
+132,Laguna Melli,132,Laguna Melli_core1,Chile,Southern America,-42.76,-73.55
+133,Lepue,133,Lepue_core1,Chile,Southern America,-42.8,-73.7
+134,Laguna Oprasa,134,Laguna Oprasa_core1,Chile,Southern America,-44.35,-73.65
+135,Lago Pollux,135,Lago Pollux_core1,Argentina,Southern America,-45.67,-71.86
+136,Laguna Miranda,136,Laguna Miranda_core1,Chile,Southern America,-46.14,-73.44
+137,Vega Ñandú,137,Vega Ñandú_core1,Argentina,Southern America,-50.93,-72.76
+138,Torres del Paine1,138,Torres del Paine1_core1,Argentina,Southern America,-50.98,-72.66
+139,Torres del Paine2,139,Torres del Paine2_core1,Chile,Southern America,-51.08,-73.06
+140,Lago Guanaco,140,Lago Guanaco_core1,Chile,Southern America,-51.13,-73.1
+141,Meseta Latorre,141,Meseta Latorre_core1,Argentina,Southern America,-51.51,-72.05
+142,Potrok Aike,142,Potrok Aike_core1,Argentina,Southern America,-51.96,-70.38
+143,Rio Rubens,143,Rio Rubens_core1,Argentina,Southern America,-52.13,-71.88
+144,Gran Campo Nevado,144,Gran Campo Nevado_core1,Argentina,Southern America,-52.81,-72.92
+145,Punta Arenas,145,Punta Arenas_core1,Chile,Southern America,-53.15,-70.95
+146,Estancia Esmeralda,146,Estancia Esmeralda_core1,Chile,Southern America,-53.5,-70.58
+147,Puerto del Hambre,147,Puerto del Hambre_core1,Chile,Southern America,-53.6,-70.91
+148,Onamonte,148,Onamonte_core1,Chile,Southern America,-53.9,-68.95
+149,Cabo San Pablo,149,Cabo San Pablo_core1,Chile,Southern America,-54.3,-66.75
+150,Lago Fagnano,150,Lago Fagnano_core1,Chile,Southern America,-54.56,-67.61
+151,Ushuaia1,151,Ushuaia1_core1,Chile,Southern America,-54.78,-68.38
+152,Ushuaia2,152,Ushuaia2_core1,Chile,Southern America,-54.78,-68.3
+153,Ushuaia3,153,Ushuaia3_core1,Chile,Southern America,-54.8,-68.38
+154,Lapataia,154,Lapataia_core1,Chile,Southern America,-54.85,-68.53
+155,Puerto Haberton,155,Puerto Haberton_core1,Chile,Southern America,-54.88,-67.16
+156,Caleta Robalo,156,Caleta Robalo_core1,Chile,Southern America,-54.93,-67.63
+157,Bahia Moat,157,Bahia Moat_core1,Chile,Southern America,-54.96,-66.73
+158,Siesta Lake,158,Siesta Lake_core1,United States,Northern America,37.85,-119.66
+159,LR1,159,LR1_core1,Canada,Northern America,58.58,-75.25
+160,EC1,160,EC1_core1,Canada,Northern America,56.28,-75.1
+161,GB2,161,GB2_core1,Canada,Northern America,55.1,-75.28
+162,Ferry Lake,162,Ferry Lake_core1,United States,Northern America,46.01,-92.13
+163,Loch an Amair,163,Loch an Amair_core1,United Kingdom,Europe,57.28,-4.89
+164,Dubh-Lochan,164,Dubh-Lochan_core1,United Kingdom,Europe,57.29,-4.43
+165,Lochan na h-Inghinn,165,Lochan na h-Inghinn_core1,United Kingdom,Europe,58.25,-5.09
+166,Reidh-lochan,166,Reidh-lochan_core1,United Kingdom,Europe,58.03,-4.12
+167,Maxus-Core5,167,Maxus-Core5_core1,Ecuador,Southern America,-0.7,-76.45
+168,Laguna Zoncho,168,Laguna Zoncho_core1,Costa Rica,Central America,8.81,-82.96
+169,Bao,169,Bao_core1,Dominican Republic,Central America,19.06,-71.03
+170,Curt Pond,170,Curt Pond_core1,United States,Northern America,36.9,-84.03
+171,Cliff Palace Pond,171,Cliff Palace Pond_core1,United States,Northern America,37.52,-83.92
+172,Horse Cove Bog,172,Horse Cove Bog_core1,United States,Northern America,35.04,-83.15
+173,Mound G Pond_Shiloh Indian Mounds,173,Mound G Pond_Shiloh Indian Mounds_core1,United States,Northern America,35.14,-88.2
+174,Cahaba Pond,174,Cahaba Pond_core1,United States,Northern America,33.5,-86.53
+175,Tuskegee Pond,175,Tuskegee Pond_core1,United States,Northern America,35.58,-84.21
+176,Black Pond,176,Black Pond_core1,United States,Northern America,35.62,-84.18
+177,East Sooke Fen,177,East Sooke Fen_core1,Canada,Northern America,48.35,-123.68
+178,Pixie,178,Pixie_core1,Canada,Northern America,48.59,-124.19
+179,Whyac,179,Whyac_core1,Canada,Northern America,48.67,-124.84
+180,Porphyry,180,Porphyry_core1,Canada,Northern America,48.9,-123.83
+181,Walker,181,Walker_core1,Canada,Northern America,48.52,-124
+182,Lagoa da Curuca Profile B,182,Lagoa da Curuca Profile B_core1,Brazil,Southern America,-0.76,-47.85
+183,Albion,183,Albion_core1,Canada,Northern America,45.67,-71.32
+184,Castor,184,Castor_core1,Canada,Northern America,46.61,-72.99
+185,Desautels,185,Desautels_core1,Canada,Northern America,49.45,-73.25
+186,Dolbeau,186,Dolbeau_core1,Canada,Northern America,48.96,-65.95
+187,J'Arrive,187,J'Arrive_core1,Canada,Northern America,49.24,-65.37
+188,Madeleine,188,Madeleine_core1,Canada,Northern America,47.66,-70.71
+189,Neume,189,Neume_core1,Canada,Northern America,47.58,-77.11
+190,Spearman,190,Spearman_core1,Canada,Northern America,46.54,-78.5
+191,Yamaska,191,Yamaska_core1,Canada,Northern America,45.45,-72.87
+192,Yelle,192,Yelle_core1,Canada,Northern America,48.5,-79.63
+193,Masoko,193,Masoko_core1,Tanzania,Eastern Africa,-9.33,33.75
+194,Jackfish,194,Jackfish_core1,United States,Northern America,63.02,-136.47
+195,Jan,195,Jan_core1,United States,Northern America,66.03,-147.55
+196,Oops,196,Oops_core1,United States,Northern America,65.44,-147.63
+197,Sands of Time,197,Sands of Time_core1,United States,Northern America,66.03,-147.55
+198,Ruppert,198,Ruppert_core1,United States,Northern America,67.07,-154.24
+199,Xindi,199,Xindi_core1,United States,Northern America,67.11,-152.49
+200,Code,200,Code_core1,United States,Northern America,67.15,-151.86
+201,Wild Tussock,201,Wild Tussock_core1,United States,Northern America,67.12,-151.38
+202,Last Chance,202,Last Chance_core1,United States,Northern America,67.07,-150.75
+203,7-M,203,7-M_core1,United States,Northern America,62.5,-113.72
+204,Arrow,204,Arrow_core1,United States,Northern America,60.75,-150.51
+205,Rock,205,Rock_core1,United States,Northern America,60.41,-150.25
+206,Deuce,206,Deuce_core1,United States,Northern America,66.05,-148.16
+207,Portage,207,Portage_core1,United States,Northern America,60.71,-150.53
+208,Lombok Ridge Core G6-4,208,Lombok Ridge Core G6-4_core1,Australia,Southern Pacific,-10.78,118.06
+209,Banda Sea Core SHI-9014,209,Banda Sea Core SHI-9014_core1,Australia,Southern Pacific,-5.76,126.96
+210,ODP Site 820,210,ODP Site 820_core1,Australia,Southern Pacific,-16.63,146.3
+211,Lake George,211,Lake George_core1,Australia,Southern Pacific,-35.06,149.41
+212,Storm Creek,212,Storm Creek_core1,Australia,Southern Pacific,-37.45,145.8
+213,Tom Burns_Missen Core,213,Tom Burns_Missen Core_core1,Australia,Southern Pacific,-37.38,145.81
+214,Tom Burns_D-section Core,214,Tom Burns_D-section Core_core1,Australia,Southern Pacific,-37.38,145.81
+215,Northwest Crater Tower Hill,215,Northwest Crater Tower Hill_core1,Australia,Southern Pacific,-38.31,142.36
+216,Lake Baraba Thirlmere Lakes,216,Lake Baraba Thirlmere Lakes_core1,Australia,Southern Pacific,-34.23,150.53
+217,Redhead Lagoon,217,Redhead Lagoon_core1,Australia,Southern Pacific,-32.99,151.72
+218,Newall Creek,218,Newall Creek_core1,Australia,Southern Pacific,-42.07,145.44
+219,Henty Bridge,219,Henty Bridge_core1,Australia,Southern Pacific,-41.99,145.47
+220,Cuddie Springs,220,Cuddie Springs_core1,Australia,Southern Pacific,-30.37,147.31
+221,Core Fr10_95-GC-17,221,Core Fr10_95-GC-17_core1,Australia,Southern Pacific,-22.04,113.5
+222,Mountain Lagoon,222,Mountain Lagoon_core1,Australia,Southern Pacific,-33.5,150.51
+223,Penrith Lakes,223,Penrith Lakes_core1,Australia,Southern Pacific,-33.71,150.67
+224,Ounjougou,224,Ounjougou_core1,Mali,Western Africa,14.362943215894786,-3.579233941
+225,Lake Tilla,225,Lake Tilla_core1,Nigeria,Central Africa,10.544598301401631,12.13137329101562
+226,Krimda,226,Krimda_core1,Algeria,Northern Africa,35.28,6.63
+227,Battle Ground Lake,227,Battle Ground Lake_core1,United States,Northern America,45.8,-122.49
+228,Lago di Origlio,228,Lago di Origlio_core1,Switzerland,Europe,46.05,8.94
+229,Lago di Muzzano,229,Lago di Muzzano_core1,Switzerland,Europe,45.99,8.92
+230,Soppensee,230,Soppensee_core1,Switzerland,Europe,47.08,8.08
+231,Lobsigensee,231,Lobsigensee_core1,Switzerland,Europe,47.03,7.29
+232,Karakol,232,Karakol_core1,Kyrgyzstan,Central Asia,42.83,77.39
+233,Sharkey,233,Sharkey_core1,United States,Northern America,44.59,-93.41
+234,Kimble,234,Kimble_core1,United States,Northern America,44.22,-93.84
+235,Rice,235,Rice_core1,United States,Northern America,48,-101.53
+236,Coldwater,236,Coldwater_core1,United States,Northern America,46.01,-99.06
+237,Lake Miragoane,237,Lake Miragoane_core1,Haiti,Carribean sea,18.4,-73.05
+238,Cooley,238,Cooley_core1,United States,Northern America,49.49,-117.64
+239,Rockslide,239,Rockslide_core1,United States,Northern America,49.55,-117.52
+240,Upper Rocket Creek Bog,240,Upper Rocket Creek Bog_core1,United States,Northern America,47.04,-115.88
+241,Ahakagyezi Swamp,241,Ahakagyezi Swamp_core1,Congo,Central Africa,-1.11,29.9
+242,Black Loch,242,Black Loch_core1,United Kingdom,Europe,56,-3
+243,Black Swamp,243,Black Swamp_core1,Australia,Southern Pacific,-30.02,151.48
+244,Boggy Swamp,244,Boggy Swamp_core1,Australia,Southern Pacific,-29.96,151.49
+245,Butchers Swamp,245,Butchers Swamp_core1,Australia,Southern Pacific,-29.97,151.45
+246,Lago Chirripó,246,Lago Chirripó_core1,Costa Rica,Central America,9,-83
+247,Chokasna Lake,247,Chokasna Lake_core1,United States,Northern America,61.37,-143.1
+248,Craigrossie,248,Craigrossie_core1,South Africa,Southern Africa,-29.82,30.99
+249,Dublin Bog,249,Dublin Bog_core1,Australia,Southern Pacific,-41.72,146.23
+250,ELA-320 Lake,250,ELA-320 Lake_core1,Canada,Northern America,49.5,-93.5
+251,Haeapugua,251,Haeapugua_core1,Papua New Guinea,Southern Pacific,-5.83,142.78
+252,Iso Lehmalampi,252,Iso Lehmälampi_core1,Finland,Europe,60.35,24.6
+253,Jierstivaara,253,Jierstivaara_core1,Finland,Europe,68.66,23.73
+254,Lac Saint Louis,254,Lac Saint Louis_core1,New Caledonia,Southern Pacific,-22.23,166.55
+255,Lake Uddjaur,255,Lake Uddjaur_core1,Sweden,Europe,65.95,17.85
+256,LB1,256,LB1_core1,Canada,Northern America,57.91,-75.61
+257,Mirabel,257,Mirabel_core1,Canada,Northern America,45.68,-74.05
+258,Noreikora Swamp,258,Noreikora Swamp_core1,Papua New Guinea,Southern Pacific,-6.33,145.83
+259,Northwest Lake,259,Northwest Lake_core1,Canada,Northern America,52.5,-94
+260,Putaanlampi,260,Putaanlampi_core1,Finland,Europe,66.38,29.41
+261,Rawa Danau,261,Rawa Danau_core1,Indonesia,South-Eastern Asia,-6.18,105.96
+262,Siles Lake,262,Siles Lake_core1,Spain,Europe,38.4,-2.5
+263,Sithylemenkat Lake,263,Sithylemenkat Lake_core1,United States,Northern America,66.11,-151.4
+264,Tadpole Swamp,264,Tadpole Swamp_core1,Australia,Southern Pacific,-38.13,145.27
+265,Whitehaven Swamp,265,Whitehaven Swamp_core1,Australia,Southern Pacific,-20.3,148.9
+266,Buxton,266,Buxton_core1,Australia,Southern Pacific,-37.44,145.69
+267,Crater Lake,267,Crater Lake_core1,Canada,Northern America,49.17,-120.07
+268,Etu-Mustajarvi,268,Etu-Mustajärvi_core1,Finland,Europe,60.98,25
+269,Konilampi fen,269,Konilampi fen_core1,Finland,Europe,61.8,24.28
+270,Lac Hertel,270,Lac Hertel_core1,Canada,Northern America,45.68,-74.05
+271,Lake Habbema,271,Lake Habbema_core1,Indonesia,South-Eastern Asia,-4.11,138.7
+272,Lake Hordorli,272,Lake Hordorli_core1,Indonesia,South-Eastern Asia,-2.53,140.55
+273,Middle Patriarch Swamp,273,Middle Patriarch Swamp_core1,Australia,Southern Pacific,-39.99,148.18
+274,North Torbreck,274,North Torbreck_core1,Australia,Southern Pacific,-37.48,146.94
+275,Oaks Creek,275,Oaks Creek_core1,Australia,Southern Pacific,-37.58,146.16
+276,Poets Hill,276,Poets Hill_core1,Australia,Southern Pacific,-41.88,145.55
+277,Powelltown,277,Powelltown_core1,Australia,Southern Pacific,-37.86,145.7
+278,Rietvlei Dam,278,Rietvlei Dam_core1,South Africa,Southern Africa,-29.82,30.99
+279,Sacred Lake,279,Sacred Lake_core1,Kenya,Eastern Africa,0.04,37.52
+280,Snobs Creek,280,Snobs Creek_core1,Australia,Southern Pacific,-37.55,145.92
+281,Tugupugua,281,Tugupugua_core1,Papua New Guinea,Southern Pacific,-5.66,142.61
+282,Viheriaisenneva bog,282,Viheriaisenneva bog_core1,Finland,Europe,61.25,24.23
+283,Wonderkrater,283,Wonderkrater_core1,South Africa,Southern Africa,-24.43,28.75
+284,Ylimmainen Kuivajarvi,284,Ylimmäinen Kuivajärvi_core1,Finland,Europe,66.35,29.61
+285,HN3,285,HN3_core1,Malaysia,South-Eastern Asia,0.8,112.03
+286,Ijomba,286,Ijomba_core1,Papua New Guinea,Southern Pacific,-4.03,137.21
+287,Kara Lake,287,Kara Lake_core1,Cambodia,South-Eastern Asia,13.55,107.13
+288,Lake Mountain,288,Lake Mountain_core1,Australia,Southern Pacific,-37.46,145.87
+289,Lake Teza,289,Lake Teza_core1,South Africa,Southern Africa,-28.51,32.3
+290,Lake Tritrivakely,290,Lake Tritrivakely_core1,Madagascar,Indian Ocean,-19.78,46.91
+291,Lake Tyrrell,291,Lake Tyrrell_core1,Australia,Southern Pacific,-35.37,142.82
+292,Moose Lake,292,Moose Lake_core1,United States,Northern America,61.37,-143.6
+293,Nicole Lake,293,Nicole Lake_core1,Canada,Northern America,62.9,-114.81
+294,Patvinsuo National Park,294,Patvinsuo National Park_core1,Finland,Europe,63.08,30.66
+295,Scotty Lake,295,Scotty Lake_core1,Canada,Northern America,54.71,-101.68
+296,Sky Lake,296,Sky Lake_core1,Canada,Northern America,56.48,-94.78
+297,Tiger Snake Swamp,297,Tiger Snake Swamp_core1,Australia,Southern Pacific,-38.13,145.27
+298,Zagas Nuur,298,Zagas Nuur_core1,Mongolia,Central Asia,48.5,90.6
+299,Lake Wodehouse,299,Lake Wodehouse_core1,Panama,Central America,7.65,-77.55
+300,Laukutu Swamp,300,Laukutu Swamp_core1,Solomon,Southern Pacific,-9.47,160.08
+301,Nee Soon Swamp,301,Nee Soon Swamp_core1,Malaysia,South-Eastern Asia,1.4,103.8
+302,ODP-668B,302,ODP-668B_core1,Namibia,Southern Africa,-20.92,4.77
+303,Pemerak Swamp,303,Pemerak Swamp_core1,Indonesia,South-Eastern Asia,0.78,112.05
+304,Piston Core RC24-07,304,Piston Core RC24-07_core1,Angola,Central Africa,-11.91,1.35
+305,Rusaka Swamp,305,Rusaka Swamp_core1,Burundi,Central Africa,-3.43,29.61
+306,Cana Swamp,306,Cana Swamp_core1,Colombia,Southern America,7.75,-77.58
+307,Ituri Basin - DRC,307,Ituri Basin_core1,Congo,Central Africa,1.5,28.5
+308,Kabata Swamp,308,Kabata Swamp_core1,Uganda,Central Africa,0.48,30.26
+309,Kashiru Swamp,309,Kashiru Swamp_core1,Burundi,Central Africa,-3.46,29.56
+310,La Yeguada,310,La Yeguada_core1,Panama,Central America,8.45,-80.85
+311,Lago de las Morrenas 1,311,Lago de las Morrenas 1_core1,Costa Rica,Central America,9.48,-83.48
+312,Mobutu Sese Seko_Lake Albert,312,Mobutu Sese Seko_Lake Albert_core1,Uganda,Central Africa,1.83,31.16
+313,Lake Rutundu,313,Lake Rutundu_core1,Kenya,Eastern Africa,-0.04,37.46
+314,Lake Tondano,314,Lake Tondano_core1,Indonesia,South-Eastern Asia,1,125
+315,Turtle,315,Turtle_core1,Canada,Northern America,49.32,-124.95
+316,Boomerang,316,Boomerang_core1,Canada,Northern America,49.18,-124.15
+317,Enos,317,Enos_core1,Canada,Northern America,49.28,-124.15
+318,Lac à l'Ange,318,Lac à l'Ange_core1,Canada,Northern America,47.46,-70.4
+319,Lac Diana,319,Lac Diana_core1,Canada,Northern America,60.98,-69.95
+320,Lac Marcotte,320,Lac Marcotte_core1,Canada,Northern America,47.07,-71.42
+321,Ljustjarnen,321,Ljustjarnen_core1,Sweden,Europe,59.75,14.43
+322,St François,322,St François_core1,Canada,Northern America,48.29,-72.14
+323,Lilla Gloppsjon,323,Lilla Gloppsjon_core1,Sweden,Europe,59.8,14.62
+324,Mont Valin,324,Mont Valin_core1,Canada,Northern America,48.61,-70.83
+325,Savkrars,325,Sävkrars_core1,Sweden,Europe,59.17,18.17
+326,Nong Pa Kho,326,Nong Pa Kho_core1,Thailand,South-Eastern Asia,17.01,102.93
+327,Pechora,327,Pechora_core1,Russia,Central Asia,62,52
+328,Lena,328,Lena_core1,Russia,Central Asia,69.38,125.13
+329,Elim,329,Elim_core1,South Africa,Southern Africa,-28.51,28.5
+330,Lago di Basso,330,Lago di Basso_core1,Italy,Europe,46.41,9.28
+331,Trygasen,331,Trygasen_core1,Sweden,Europe,61.77,13.3
+332,Lago Piccolo di Avigliana,332,Lago Piccolo di Avigliana_core1,Italy,Europe,45.05,7.38
+333,Ely,333,Ely_core1,United States,Northern America,41.76,-75.83
+334,Lac Rond,334,Lac Rond_core1,Canada,Northern America,46,-74
+335,Pout Pond,335,Pout Pond_core1,United States,Northern America,43.42,-71.5
+336,Round Pond,336,Round Pond_core1,United States,Northern America,44,-74
+337,Basin,337,Basin_core1,United States,Northern America,44.4,-70.5
+338,Crawford,338,Crawford_core1,Canada,Northern America,44,-80
+339,Beaver,339,Beaver_core1,United States,Northern America,42.47,-100.67
+340,Dark,340,Dark_core1,United States,Northern America,45.2,-95.2
+341,Deming,341,Deming_core1,United States,Northern America,47.2,-97.2
+342,Fish,342,Fish_core1,United States,Northern America,43.85,-95.04
+343,Hell's Kitchen,343,Hell's Kitchen_core1,United States,Northern America,46.2,-89.6
+344,Kettle,344,Kettle_core1,United States,Northern America,48.61,-103.62
+345,Moon,345,Moon_core1,United States,Northern America,46.85,-98.15
+346,Morrison,346,Morrison_core1,United States,Northern America,44.6,-113.04
+347,Reservoir,347,Reservoir_core1,United States,Northern America,45.13,-113.46
+348,McGinnis,348,McGinnis_core1,Canada,Northern America,44.6,-78.03
+349,Petit Bouchard,349,Petit Bouchard_core1,Canada,Northern America,48.85,-64.6
+350,Lac aux Atocas,350,Lac aux Atocas_core1,Canada,Northern America,45.53,-73.31
+351,Lac Caribou,351,Lac Caribou_core1,Canada,Northern America,48.19,-64.94
+352,Lac Clo,352,Lac Clo_core1,Canada,Northern America,48.49,-79.35
+353,Lac Daumont,353,Lac Daumont_core1,Canada,Northern America,54.88,-69.4
+354,Lac Delorme,354,Lac Delorme_core1,Canada,Northern America,54.43,-69.92
+355,Lac à Euloge,355,Lac à Euloge_core1,Canada,Northern America,49.24,-65.37
+356,Lac Gabriel,356,Lac Gabriel_core1,Canada,Northern America,48.28,-73.47
+357,Lac à Léonard,357,Lac à Léonard_core1,Canada,Northern America,49.2,-65.81
+358,Lac à la Main,358,Lac à la Main_core1,Canada,Northern America,47.7,-70.62
+359,Lac Martini,359,Lac Martini_core1,Canada,Northern America,47.47,-72.76
+360,Lac à la Montagne Ronde,360,Lac à la Montagne Ronde_core1,Canada,Northern America,48.32,-68.56
+361,Lac Ouellet,361,Lac Ouellet_core1,Canada,Northern America,47.53,-68.94
+362,Lac Perdu,362,Lac Perdu_core1,Canada,Northern America,49.17,-66.32
+363,Lac Pessière_B,363,Lac Pessière_B_core1,Canada,Northern America,49.5,-79.24
+364,Triangle,364,Triangle_core1,Canada,Northern America,48.71,-65.41
+365,Lac Flévy,365,Lac Flévy_core1,Canada,Northern America,48.21,-71.21
+366,Marais du Grand-Chaumet,366,Marais du Grand-Chaumet_core1,France,Europe,46.93,1.9
+367,Artxilondo,367,Artxilondo_core1,France,Europe,43.03,-1.13
+368,Neublans,368,Neublans_core1,France,Europe,46.91,5.34
+369,Chavannes,369,Chavannes_core1,France,Europe,46.84,2.36
+370,Pla de l'Orri,370,Pla de l'Orri_core1,France,Europe,42.5,1.88
+371,Cuguron,371,Cuguron_core1,France,Europe,43.1,0.54
+372,Peyre,372,Peyre_core1,France,Europe,44.96,2.71
+374,Lej da San Murrezzan,374,Lej da San Murrezzan_core1,Switzerland,Europe,46.49,9.84
+375,Saracuri,375,Saracuri_core1,Brazil,Southern America,-1.67,-53.57
+376,Santa Maria,376,Santa Maria_core1,Brazil,Southern America,-1.57,-53.6
+377,Werth,377,Werth_core1,Peru,Southern America,-11.74,-69.23
+378,Gentry,378,Gentry_core1,Peru,Southern America,-12.17,-69.09
+379,Parker,379,Parker_core1,Peru,Southern America,-12.14,-69.02
+380,Vargas,380,Vargas_core1,Peru,Southern America,-12.37,-68.89
+381,Lago Tapajos,381,Lago Tapajos_core1,Brazil,Southern America,-2.77,-55.08
+382,Lake Pata,382,Lake Pata_core1,Brazil,Southern America,0.26,-66.06
+383,Lake Consuelo,383,Lake Consuelo_core1,Peru,Southern America,-13.95,-68.98
+384,Cocha Cashu,384,Cocha Cashu_core1,Peru,Southern America,-11.88,-71.41
+385,Verde,385,Verde_core1,Brazil,Southern America,0.26,-66.68
+386,Biviere di Gela,386,Biviere di Gela_core1,Italy,Europe,37.01,14.33
+387,Galway Tarn,387,Galway Tarn_core1,New Zealand,Southern Pacific,-43.4,169.87
+388,Okarito Pakihi,388,Okarito Pakihi_core1,New Zealand,Southern Pacific,-43.24,170.21
+389,Ajax Hill,389,Ajax Hill_core1,New Zealand,Southern Pacific,-46.41,169.29
+390,Clarks Junction,390,Clarks Junction_core1,New Zealand,Southern Pacific,-45.71,170.11
+391,Eweburn Bog,391,Eweburn Bog_core1,New Zealand,Southern Pacific,-45.32,167.8
+392,Glendhu Bog,392,Glendhu Bog_core1,New Zealand,Southern Pacific,-45.83,169.72
+393,Kichikol,393,Kichikol_core1,Kyrgyzstan,Central Asia,39.98,73.55
+394,Bakaly,394,Bakaly_core1,Kyrgyzstan,Central Asia,42.45,72.6
+395,Lago della Costa AP1,395,Lago della Costa AP1_core1,Italy,Europe,45.27,11.74
+396,Lake Majo,396,Lake Majo_core1,Indonesia,South-Eastern Asia,-1.46,127.48
+397,Mubwindi Swamp,397,Mubwindi Swamp_core1,Uganda,Central Africa,-1.08,29.75
+398,Lake Biwa Takashima-oki Core,398,Lake Biwa Takashima-oki Core_core1,Japan,North-Eastern Asia,35.24,136.05
+399,Sonenuma Bog,399,Sonenuma Bog_core1,Japan,North-Eastern Asia,35.23,136.19
+400,Andiosols,400,Andiosols_core1,Japan,North-Eastern Asia,35.38,135.97
+401,Gooches Swamp,401,Gooches Swamp_core1,Australia,Southern Pacific,-33.45,150.26
+402,Wonderkrater borehole 3,402,Wonderkrater borehole 3_core1,South Africa,Southern Africa,-24.5,28.75
+403,Dyanushka,403,Dyanushka_core1,Russia,Central Asia,65.03,125.03
+404,Laguna Volcan,404,Laguna Volcan_core1,Panama,Central America,8.75,-82.68
+405,Botucatu,405,Botucatu_core1,Brazil,Southern America,-23,-48
+406,Saquinho,406,Saquinho_core1,Brazil,Southern America,-10.4,-43.21
+407,Jaguariuna,407,Jaguariuna_core1,Brazil,Southern America,-22.66,-47.01
+408,Anhembi,408,Anhembi_core1,Brazil,Southern America,-22.75,-47.96
+409,Pontes e Lacerda,409,Pontes e Lacerda_core1,Brazil,Southern America,-15.26,-59.21
+410,Salitre,410,Salitre_core1,Brazil,Southern America,-19,-46.76
+411,Sakhare,411,Sakhare_core1,Georgia,Central Asia,41.58,45.31
+412,Kumisi,412,Kumisi_core1,Georgia,Central Asia,41.58,44.83
+413,Tsavkisi,413,Tsavkisi_core1,Georgia,Central Asia,41.68,44.71
+414,Imera,414,Imera_core1,Georgia,Central Asia,41.65,44.21
+415,Aligol,415,Aligol_core1,Georgia,Central Asia,41.63,44.01
+416,Ispani,416,Ispani_core1,Georgia,Central Asia,41.86,41.8
+417,Hidden,417,Hidden_core1,United States,Northern America,40.51,-106.61
+418,South Fork Payette,418,South Fork Payette_core1,United States,Northern America,44.2,-115.5
+419,NE Yellowstone National Park,419,NE Yellowstone National Park_core1,United States,Northern America,45,-110
+421,East Lake,421,East Lake_core1,United States,Northern America,37.17,-119.02
+422,Sapphire Swamp,422,Sapphire Swamp_core1,Australia,Southern Pacific,-30.03,151.56
+423,Burraga Swamp,423,Burraga Swamp_core1,Australia,Southern Pacific,-32.02,151.43
+424,Killalea Lagoon,424,Killalea Lagoon_core1,Australia,Southern Pacific,-34.6,150.86
+425,Bondi Lake Centre Core,425,Bondi Lake Centre Core_core1,Australia,Southern Pacific,-36.8,149.93
+426,Lac Suprin,426,Lac Suprin_core1,New Caledonia,Southern Pacific,-22.18,166.59
+427,Soleve,427,Soleve_core1,Fiji,Southern Pacific,-17.25,-179.49
+428,Yacata,428,Yacata_core1,Fiji,Southern Pacific,-17.15,-179.51
+429,Voli Voli,429,Voli Voli_core1,Fiji,Southern Pacific,-18.16,177.48
+430,Supulah Hill,430,Supulah Hill_core1,Indonesia,South-Eastern Asia,-4.11,138.96
+431,Wanda,431,Wanda_core1,Indonesia,South-Eastern Asia,-2.33,121.23
+432,Kettlehole Bog,432,Kettlehole Bog_core1,New Zealand,Southern Pacific,-43.05,171.78
+433,Kaipo,433,Kaipo_core1,New Zealand,Southern Pacific,-38.4,177.1
+434,Waikaremoana,434,Waikaremoana_core1,New Zealand,Southern Pacific,-38.45,177.02
+435,Kohuora,435,Kohuora_core1,New Zealand,Southern Pacific,-36.57,174.52
+436,Lago del Greppo,436,Lago del Greppo_core1,Italy,Europe,44.11,11.66
+437,Brenda Lake ,437,Brenda Lake _core1,Canada,Northern America,62.35,-119.19
+438,Andy Lake ,438,Andy Lake _core1,Canada,Northern America,61.95,-109.81
+439,Jason ,439,Jason _core1,Canada,Northern America,61.68,-107.78
+440,Corral Lake,440,Corral Lake_core1,Canada,Northern America,57.32,-100.85
+441,Two Hill Lake ,441,Two Hill Lake _core1,Canada,Northern America,55.98,-97.28
+442,OK Lake ,442,OK Lake _core1,Canada,Northern America,54.8,-95.25
+443,Harris Lake Ridge Bog,443,Harris Lake Ridge Bog_core1,Canada,Northern America,49.73,-125.24
+444,Lake Euramoo,444,Lake Euramoo_core1,Australia,Southern Pacific,-17.15,145.62
+445,Lily Pond Warwick,445,Lily Pond Warwick_core1,United States,Northern America,42.68,-72.33
+446,Otter Pond,446,Otter Pond_core1,United States,Northern America,42.65,-72.53
+447,Aino Pond,447,Aino Pond_core1,United States,Northern America,42.68,-71.92
+448,Little Pond Bolton,448,Little Pond Bolton_core1,United States,Northern America,42.42,-71.58
+449,Green Pond,449,Green Pond_core1,United States,Northern America,42.56,-72.51
+450,LG4-01,450,LG4-01_core1,Canada,Northern America,54.03,-72.87
+451,LG4-05,451,LG4-05_core1,Canada,Northern America,54.06,-72.91
+452,LG4-06,452,LG4-06_core1,Canada,Northern America,54.07,-72.94
+453,LG4-09,453,LG4-09_core1,Canada,Northern America,54.9,-72.77
+454,LG4-12,454,LG4-12_core1,Canada,Northern America,52.84,-73.31
+455,Warrananga,455,Warrananga_core1,Australia,Southern Pacific,-33.97,141.56
+456,Byenup Lagoon Site 1,456,Byenup Lagoon Site 1_core1,Australia,Southern Pacific,-34.46,116.73
+457,Wet Lagoon,457,Wet Lagoon_core1,Australia,Southern Pacific,-34.47,149.25
+458,Bobundara Swamp,458,Bobundara Swamp_core1,Australia,Southern Pacific,-36.25,150.06
+459,Kurnell Fen,459,Kurnell Fen_core1,Australia,Southern Pacific,-34.01,151.1
+460,Ryans Swamp,460,Ryans Swamp_core1,Australia,Southern Pacific,-35.09,150.39
+461,Pimenta Bueno,461,Pimenta Bueno_core1,Brazil,Southern America,-11.81,-61.16
+462,Porto Velho,462,Porto Velho_core1,Brazil,Southern America,-8.35,-63.95
+464,Steel Lake,464,Steel Lake_core1,United States,Northern America,46.96,-94.68
+465,West Olaf Lake,465,West Olaf Lake_core1,United States,Northern America,46.61,-96.18
+466,Nelson Lake,466,Nelson Lake_core1,United States,Northern America,41.83,-88.38
+467,Chatsworth Bog,467,Chatsworth Bog_core1,United States,Northern America,40.67,-88.32
+468,Bohult Hollow,468,Bohult Hollow_core1,Sweden,Europe,57.23,16.16
+469,Gaundera GUA2,469,Gaundera GUA2_core1,Ecuador,Southern America,0.6,-77.69
+470,Stavsakra Bog,470,Stavsakra Bog_core1,Sweden,Europe,56.91,14.9
+473,Lake Chignahuapan,473,Lake Chignahuapan_core1,Mexico,Central America,19.16,-99.53
+474,Lago Verde,474,Lago Verde_core1,Mexico,Central America,18.61,-95.34
+475,Canal de la Puntilla,475,Canal de la Puntilla_core1,Chile,Southern America,-40.95,-72.9
+476,Sacramento Mountains,476,Sacramento Mountains_core1,United States,Northern America,32.84,-105.7
+477,Las Pardillas,477,Las Pardillas_core1,Spain,Europe,42.03,-3.03
+478,Lake Tulane,478,Lake Tulane_core1,United States,Northern America,27.58,-81.5
+479,Ballachrink,479,Ballachrink_core1,United Kingdom,Europe,54.37,-4.47
+480,Meremma Park,480,Meremma Park_core1,Italy,Europe,42.66,11.16
+481,Matsabory Ampozalana,481,Matsabory Ampozalana_core1,Madagascar,Indian Ocean,-12.5,49.15
+482,Lake Chalalan,482,Lake Chalalan_core1,Bolivia,Southern America,-14.42,-67.92
+483,Lake Santa Rosa,483,Lake Santa Rosa_core1,Bolivia,Southern America,-14.47,-67.87
+484,Pine Camp,484,Pine Camp_core1,Australia,Southern Pacific,-34.75,141.13
+485,Gallahers Swamp,485,Gallahers Swamp_core1,Australia,Southern Pacific,-34.29,150.43
+486,Rock Arch Swamp,486,Rock Arch Swamp_core1,Australia,Southern Pacific,-34.3,150.39
+487,Cotter Source Bog center,487,Cotter Source Bog center_core1,Australia,Southern Pacific,-35.96,148.81
+488,Tom Gregory Swamp,488,Tom Gregory Swamp_core1,Australia,Southern Pacific,-35.38,148.49
+489,Rennix Gap,489,Rennix Gap_core1,Australia,Southern Pacific,-36.22,148.3
+490,Ginini Flats,490,Ginini Flats_core1,Australia,Southern Pacific,-35.31,148.46
+491,Den Plain 3,491,Den Plain 3_core1,Australia,Southern Pacific,-41.3,146.2
+492,Nursery Swamp,492,Nursery Swamp_core1,Australia,Southern Pacific,-35.41,148.58
+493,Badu 15,493,Badu 15_core1,Australia,Southern Pacific,-10.06,142.09
+494,Argan Swamp,494,Argan Swamp_core1,Australia,Southern Pacific,-10.05,142.06
+495,Talita Kupai,495,Talita Kupai_core1,Australia,Southern Pacific,-10.1,142.12
+496,Waruid,496,Waruid_core1,Australia,Southern Pacific,-10.4,142.09
+497,Tiam Point,497,Tiam Point_core1,Australia,Southern Pacific,-10.12,142.18
+498,Boigu Gawat Core 1,498,Boigu Gawat Core 1_core1,Australia,Southern Pacific,-10.1,142.14
+499,Bar20,499,Bar20_core1,Australia,Southern Pacific,-10.1,142.12
+500,Zurath Islet,500,Zurath Islet_core1,Australia,Southern Pacific,-10.16,142.06
+501,Muellers Rock,501,Muellers Rock_core1,Australia,Southern Pacific,-35.39,148.5
+502,Hill of Six Lakes,502,Hill of Six Lakes_core1,Brazil,Southern America,0.26,-66.68
+503,Lac aux Geais,503,Lac aux Geais_core1,Canada,Northern America,49.89,-78.65
+504,Lac Profond,504,Lac Profond_core1,Canada,Northern America,49.86,-78.61
+505,Lac Raynald,505,Lac Raynald_core1,Canada,Northern America,49.8,-78.53
+506,Lac à la Loutre,506,Lac à la Loutre_core1,Canada,Northern America,49.71,-78.33
+507,Horton Plains,507,Horton Plains_core1,India,South-Eastern Asia,6.8,80.49
+508,Kanorado,508,Kanorado_core1,United States,Northern America,39.33,-102
+509,Ft. Riley 1,509,Ft. Riley 1_core1,United States,Northern America,39.08,-96.75
+510,Ft. Riley 2,510,Ft. Riley 2_core1,United States,Northern America,39.09,-96.75
+511,Cooper WMA,511,Cooper WMA_core1,United States,Northern America,36.62,-99.53
+512,Arroyo Grande,512,Arroyo Grande_core1,Mexico,Central America,26.05,-105.23
+513,El Molino,513,El Molino_core1,Mexico,Central America,25.58,-102.17
+514,Coahuila 30,514,Coahuila 30_core1,Mexico,Central America,25.86,-102.92
+515,Turbuta,515,Turbuta_core1,Romania,Europe,47.25,23.3
+516,Lake Kirjavalampi,516,Lake Kirjavalampi_core1,Russia,Central Asia,61.73,30.76
+517,El Carrizal,517,El Carrizal_core1,Spain,Europe,41.31,-4.14
+518,Allom Lake,518,Allom Lake_core1,Australia,Southern Pacific,-25.23,153.16
+519,Lake Sibaya,519,Lake Sibaya_core1,South Africa,Southern Africa,-27.2,32.36
+520,Kuahuqiao Site,520,Kuahuqiao Site_core1,China,Central Asia,30.25,120.32
+521,Funduzi,521,Funduzi_core1,South Africa,Southern Africa,-22.85,30.89
+522,Shiroka Polyana,522,Shiroka Polyana_core1,Bulgaria,Europe,41.75,24.13
+523,Kupana Fen,523,Kupana Fen_core1,Bulgaria,Europe,41.98,24.32
+524,Tschokojovo Marsh,524,Tschokojovo Marsh_core1,Bulgaria,Europe,42.4,22.82
+525,Abbojarnen,525,Abbojarnen_core1,Sweden,Europe,63.88,14.45
+526,Kälksjön,526,Kälksjön_core1,Sweden,Europe,60.13,13.05
+527,Lake Teletskoye,527,Lake Teletskoye_core1,Russia,Central Asia,51.7,87.65
+528,Griblje Marsh,528,Griblje Marsh_core1,Slovenia,Europe,45.56,15.27
+529,Canada de la Cruz,529,Canada de la Cruz_core1,Spain,Europe,38.4,-2.42
+530,Villaverde,530,Villaverde_core1,Spain,Europe,38.8,-2.22
+531,Baza,531,Baza_core1,Spain,Europe,37.23,-2.7
+532,Mlaka,532,Mlaka_core1,Slovenia,Europe,45.5,15.2
+533,El Tiro Bog,533,El Tiro Bog_core1,Colombia,Southern America,-3.84,-79.14
+534,Xujianan,534,Xujianan_core1,Mongolia,Central Asia,35.5,106
+535,Ertangcun,535,Ertangcun_core1,Mongolia,Central Asia,35.01,107.65
+536,Jiangyangcun,536,Jiangyangcun_core1,Mongolia,Central Asia,34.5,108.3
+537,Dohgxiafeng North,537,Dohgxiafeng North_core1,Mongolia,Central Asia,35.44,112.51
+538,Bao-1,538,Bao-1_core1,Haiti,Carribean sea,19.06,-71.03
+539,Laguna Azul,539,Laguna Azul_core1,Argentina,Southern America,-52.12,-69.52
+540,Crevice Lake,540,Crevice Lake_core1,United States,Northern America,45,-110.57
+541,Les Comailles,541,Les Comailles_core1,France,Europe,47.66,3.22
+542,Gabarn,542,Gabarn_core1,France,Europe,43.17,-0.55
+543,Elferdalen,543,Elferdalen_core1,Norway,Europe,59.65,9.3
+544,Gador,544,Gádor_core1,Spain,Europe,36.9,-2.91
+545,Kapteinjorn,545,Kapteinjörn_core1,Norway,Europe,59.33,9.66
+546,Kis-Mohos Ro,546,Kis-Mohos Ro_core1,Hungary,Europe,48.4,20.4
+547,Kragso,547,Kragsø_core1,Denmark,Europe,56.21,9.02
+548,Lac du Lait,548,Lac du Lait_core1,France,Europe,45.31,6.81
+549,Lac du Thyl,549,Lac du Thyl_core1,France,Europe,45.24,6.49
+550,Lago di Gembro,550,Lago di Gembro_core1,Italy,Europe,46.16,10.15
+551,Lac Miroir,551,Miroir_core1,France,Europe,44.63,6.79
+552,Navarés,552,Navarés_core1,Spain,Europe,39.1,-0.68
+553,Ojos del Tremendal,553,Ojos del Tremendal_core1,Spain,Europe,40.53,-2.05
+554,Plan Bouchet,554,Plan Bouchet_core1,France,Europe,45.24,6.56
+555,Skansø,555,Skansø_core1,Denmark,Europe,56.51,8.83
+556,Solsø,556,Solsø_core1,Denmark,Europe,56.13,8.63
+557,Lough Mullaghlahan,557,Lough Mullaghlahan_core1,United Kingdom,Europe,54.76,-8.46
+558,Lough Nabraddan,558,Lough Nabraddan_core1,United Kingdom,Europe,55.01,-8.35
+559,Altar Lough,559,Altar Lough_core1,United Kingdom,Europe,55.01,-8.4
+560,Lios Lairthín Mór,560,Lios Lairthín Mór_core1,United Kingdom,Europe,53.08,-9.21
+561,Lough Sheeauns,561,Lough Sheeauns_core1,United Kingdom,Europe,53.55,-10.05
+562,Lough Camclaun,562,Lough Camclaun_core1,United Kingdom,Europe,52.19,-10.16
+563,Lough Adoon Hill Bog,563,Lough Adoon Hill Bog_core1,United Kingdom,Europe,52.19,-10.15
+564,Lough Adoon Valley Site,564,Lough Adoon Valley Site_core1,United Kingdom,Europe,52.19,-10.15
+565,Loch Mór,565,Loch Mór_core1,United Kingdom,Europe,53.05,-9.5
+566,NHP Loch Affric Glen Affric,566,NHP Loch Affric Glen Affric_core1,United Kingdom,Europe,57.25,-5.05
+567,Tory Hill basin,567,Tory Hill basin_core1,United Kingdom,Europe,52.53,-8.68
+568,Quoyloo Meadow,568,Quoyloo Meadow_core1,United Kingdom,Europe,59.06,-3.31
+569,Loch Lang,569,Loch Lang_core1,United Kingdom,Europe,57.25,-7.28
+570,Walton Moss,570,Walton Moss_core1,United Kingdom,Europe,54.99,-2.77
+571,Mizorogaike,571,Mizorogaike_core1,Japan,North-Eastern Asia,35.05,135.76
+572,Jagaike,572,Jagaike_core1,Japan,North-Eastern Asia,35.24,135.45
+573,Hatchodaira,573,Hatchodaira_core1,Japan,North-Eastern Asia,35.23,135.83
+574,Okameike,574,Okameike_core1,Japan,North-Eastern Asia,34.51,136.16
+575,Ofuke,575,Ofuke_core1,Japan,North-Eastern Asia,38.64,135.17
+576,Nonbara,576,Nonbara_core1,Japan,North-Eastern Asia,34.45,131.8
+577,Ryam,577,Ryam_core1,Russia,Central Asia,56.04,78.53
+578,Small Bazyr Lake,578,Small Bazyr Lake_core1,Russia,Central Asia,55.94,88.03
+579,Beloe Lake4,579,Beloe Lake4_core1,Russia,Central Asia,55.38,82.68
+580,Bolshoe bog,580,Bolshoe bog_core1,Russia,Central Asia,51.46,104.5
+581,Duliha bog,581,Duliha bog_core1,Russia,Central Asia,51.51,105
+582,Cheremushuka bog,582,Cheremushuka bog_core1,Russia,Central Asia,52.75,108.08
+583,Duguldzeiri River bog,583,Duguldzeiri River bog_core1,Russia,Central Asia,54.45,109.53
+584,Tompuda bog,584,Tompuda bog_core1,Russia,Central Asia,55.13,109.76
+585,Puschino,585,Puschino_core1,Russia,Central Asia,54.08,157.88
+586,Duck lake,586,Duck lake_core1,Russia,Central Asia,53.01,157.78
+587,Small Kimitina Bog,587,Small Kimitina Bog_core1,Russia,Central Asia,54.97,158.84
+588,Ikar Lake Bog,588,Ikar Lake Bog_core1,Russia,Central Asia,55.87,158.67
+589,Chlya Lake bog,589,Chlya Lake bog_core1,Russia,Central Asia,53.53,140.22
+590,Tyapka bog,590,Tyapka bog_core1,Russia,Central Asia,53.69,140.09
+591,Grusky bog,591,Grusky bog_core1,Russia,Central Asia,49.98,137.06
+592,Kija bog,592,Kija bog_core1,Russia,Central Asia,47.81,135.66
+593,Tumanovo,593,Tumanovo_core1,Russia,Central Asia,48.74,142.85
+594,Khoy,594,Khoy_core1,Russia,Central Asia,50.23,143.84
+595,Pokrovka,595,Pokrovka_core1,Russia,Central Asia,47.3,142.7
+596,Aidar,596,Aidar_core1,Russia,Central Asia,47.78,142.51
+597,Maralay Alas,597,Maralay Alas_core1,Russia,Central Asia,63.1,130.58
+598,Sugun Lake,598,Sugun Lake_core1,Russia,Central Asia,62.08,129.48
+599,Chai-ku Lake,599,Chai-ku Lake_core1,Russia,Central Asia,62,130.06
+600,Lövnäs Lake_B,600,Lövnäs Lake_B_core1,Sweden,Europe,66.31,17.9
+601,Nussbaumersee,601,Nussbaumersee_core1,Switzerland,Europe,47.6,8.81
+602,Sävkrars mosse,602,Sävkrars mosse_core1,Sweden,Europe,59.16,18.3
+603,Seedorf,603,Seedorf_core1,Switzerland,Europe,46.79,7.04
+604,Steeren-moos,604,Steeren-moos_core1,Germany,Europe,47.81,8.18
+605,Lake Lucerne,605,Lake Lucerne_core1,Switzerland,Europe,47.05,8.59
+606,Bereket Basin,606,Bereket Basin_core1,Turkey,Middle East,37.54,30.29
+607,Lago di Pergusa,607,Lago di Pergusa_core1,Italy,Europe,37.51,14.3
+608,Xishuangbannan,608,Xishuangbannan_core1,China,Central Asia,21.5,101.5
+609,Boulder Flat,609,Boulder Flat_core1,Australia,Southern Pacific,-37.45,148.92
+610,Maluyo Swamp,610,Maluyo Swamp_core1,Australia,Southern Pacific,18.18,121.58
+611,Paoay Lake LP3,611,Paoay Lake LP3_core1,Australia,Southern Pacific,18.2,120.54
+612,Paoay Lake LP4,612,Paoay Lake LP4_core1,Australia,Southern Pacific,18.12,120.54
+613,Quambie Lagoon,613,Quambie Lagoon_core1,Australia,Southern Pacific,-12.5,131.17
+614,Xere Wapo C,614,Xere Wapo C_core1,Australia,Southern Pacific,-22.29,166.97
+615,Ajkwa 1,615,Ajkwa 1_core1,Indonesia,South-Eastern Asia,-4.86,136.96
+616,Ajkwa 2,616,Ajkwa 2_core1,Indonesia,South-Eastern Asia,-4.86,136.96
+617,Ajkwa 3,617,Ajkwa 3_core1,Indonesia,South-Eastern Asia,-4.86,136.96
+618,Ajkwa 4,618,Ajkwa 4_core1,Indonesia,South-Eastern Asia,-4.86,136.96
+619,Ajkwa 5,619,Ajkwa 5_core1,Indonesia,South-Eastern Asia,-4.86,136.96
+620,Anggi Lake,620,Anggi Lake_core1,Papua New Guinea,Southern Pacific,-1.4,133.9
+621,Anumon Swamp,621,Anumon Swamp_core1,Vanuatu,Southern Pacific,-20.16,169.82
+622,Aru,622,Aru_core1,Indonesia,South-Eastern Asia,-5.91,134.2
+623,Cameron's Lagoon,623,Cameron's Lagoon_core1,Australia,Southern Pacific,-41.96,146.68
+624,Hogayaku,624,Hogayaku_core1,Indonesia,South-Eastern Asia,-3.98,137.38
+625,Lake Hordorli_B,625,Lake Hordorli_B_core1,Indonesia,South-Eastern Asia,-2.53,140.55
+626,Koumac,626,Koumac_core1,New Caledonia,Southern Pacific,-20.65,164.28
+627,Mago Island,627,Mago Island_core1,Fiji,Southern Pacific,-17.44,179.15
+628,Doge Doge,628,Doge Doge_core1,Fiji,Southern Pacific,-17.9,177.27
+629,Plum Swamp,629,Plum Swamp_core1,New Caledonia,Southern Pacific,-22.26,166.61
+630,Saint Louis Lac,630,Saint Louis Lac_core1,New Caledonia,Southern Pacific,-22.23,166.55
+631,Blue Lake Kosciuzko,631,Blue Lake Kosciuzko_core1,Australia,Southern Pacific,-36.14,148.43
+632,Grey Pole Swamp Broughton Island,632,Grey Pole Swamp Broughton Island_core1,Australia,Southern Pacific,-32.61,152.31
+633,Griffith Swamp,633,Griffith Swamp_core1,Australia,Southern Pacific,-33.28,151
+634,Hopwoods Lagoon,634,Hopwoods Lagoon_core1,Australia,Southern Pacific,-33.21,150.99
+635,Howes Waterhole Swamp,635,Howes Waterhole Swamp_core1,Australia,Southern Pacific,-33.01,150.66
+636,Kings Tableland Swamp_short core study,636,Kings Tableland Swamp_short core study_core1,Australia,Southern Pacific,-33.73,150.48
+637,Kings Waterhole,637,Kings Waterhole_core1,Australia,Southern Pacific,-33.01,150.66
+638,Lake Couridjah Thirlmere Lakes,638,Lake Couridjah Thirlmere Lakes_core1,Australia,Southern Pacific,-34.23,150.54
+639,Lake Curlip,639,Lake Curlip_core1,Australia,Southern Pacific,-37.83,148.56
+640,Lashmars Lagoon,640,Lashmars Lagoon_core1,Australia,Southern Pacific,-35.8,138.06
+641,Main Lake Tower Hill,641,Main Lake Tower Hill_core1,Australia,Southern Pacific,-38.31,142.36
+642,Lios Lairthín Móir,642,Lios Lairthín Móir_core1,United Kingdom,Europe,53.08,-9.21
+643,Lough Maumeen,643,Lough Maumeen_core1,United Kingdom,Europe,53.48,-9.65
+644,Derrycunihy Wood,644,Derrycunihy Wood_core1,United Kingdom,Europe,52.01,-9.41
+645,Camillan Wood,645,Camillan Wood_core1,United Kingdom,Europe,52.03,-9.56
+646,Mongan Bog,646,Mongan Bog_core1,United Kingdom,Europe,53.33,-7.93
+647,Abbeyknockmoy Bog,647,Abbeyknockmoy Bog_core1,United Kingdom,Europe,53.44,-8.76
+648,Loch an t'Suidhe,648,Loch an t'Suidhe_core1,United Kingdom,Europe,56.3,-6.24
+649,Loch Buailaval Beag,649,Loch Buailaval Beag_core1,United Kingdom,Europe,58.26,-6.76
+650,Loch a'Phuinnd,650,Loch a'Phuinnd_core1,United Kingdom,Europe,57.36,-7.26
+651,Crag Lough,651,Crag Lough_core1,United Kingdom,Europe,55,-2.36
+652,Dallican Water,652,Dallican Water_core1,United Kingdom,Europe,60.39,-1.1
+653,Loch a'Bhogaidh,653,Loch a'Bhogaidh_core1,United Kingdom,Europe,55.72,-6.4
+654,Cothill Fen,654,Cothill Fen_core1,United Kingdom,Europe,51.68,-1.32
+655,Sidlings Copse,655,Sidlings Copse_core1,United Kingdom,Europe,51.79,-1.22
+656,Bolton Fell Moss,656,Bolton Fell Moss_core1,United Kingdom,Europe,55.02,-2.85
+657,Long Breach,657,Long Breach_core1,United Kingdom,Europe,51.06,-3.69
+658,Gorte Mire,658,Gorte Mire_core1,United Kingdom,Europe,51.06,-3.67
+659,Anstey's Combe,659,Anstey's Combe_core1,United Kingdom,Europe,51.05,-3.67
+660,Migneint,660,Migneint_core1,United Kingdom,Europe,52.82,-3.82
+661,Little Lake,661,Little Lake_core1,United States,Northern America,44.16,-123.58
+662,Mira,662,Mira_core1,Ukraine,Europe,47.4,34.5
+663,Braamhoek,663,Braamhoek_core1,South Africa,Southern Africa,-28.23,25.58
+664,Eski Acigöl,664,Eski Acigöl_core1,Turkey,Middle East,38.55,34.54
+665,Nar,665,Nar_core1,Turkey,Middle East,38.37,34.45
+666,Moreletta River,666,Moreletta River_core1,South Africa,Southern Africa,-28.82,30.99
+668,Guallar,668,Guallar_core1,Spain,Europe,41.4,-0.22
+669,Aire Crossing,669,Aire Crossing_core1,Australia,Southern Pacific,-38.64,143.47
+670,Bondi Lake South Core,670,Bondi Lake South Core_core1,Australia,Southern Pacific,-36.8,149.93
+671,Lake Condah,671,Lake Condah_core1,Australia,Southern Pacific,-38.06,141.83
+672,Tea Tree Swamp Core DRA,672,Tea Tree Swamp Core DRA_core1,Australia,Southern Pacific,-37.21,148.83
+673,Tea Tree Swamp Core DRE,673,Tea Tree Swamp Core DRE_core1,Australia,Southern Pacific,-37.21,148.83
+674,Tea Tree Swamp Core DRN-A,674,Tea Tree Swamp Core DRN-A_core1,Australia,Southern Pacific,-37.21,148.83
+675,Wildes Meadow Swamp,675,Wildes Meadow Swamp_core1,Australia,Southern Pacific,-34.62,150.51
+676,South Salvation Creek Swamp,676,South Salvation Creek Swamp_core1,Australia,Southern Pacific,-33.63,151.25
+677,Bridgewater Lake Core B,677,Bridgewater Lake Core B_core1,Australia,Southern Pacific,-38.3,141.38
+678,Kelela Swamp,678,Kelela Swamp_core1,Papua New Guinea,Southern Pacific,-4.02,138.91
+679,Kosipe A,679,Kosipe A_core1,Papua New Guinea,Southern Pacific,-8.46,147.2
+680,Kosipe C,680,Kosipe C_core1,Papua New Guinea,Southern Pacific,-8.46,147.2
+681,Laravita,681,Laravita_core1,Papua New Guinea,Southern Pacific,-8.39,147.35
+682,Aguai Ramata,682,Aguai Ramata_core1,Papua New Guinea,Southern Pacific,-6.56,145.21
+683,Sondambile,683,Sondambile_core1,Papua New Guinea,Southern Pacific,-6.34,147.11
+684,Greens Bush,684,Greens Bush_core1,Australia,Southern Pacific,-38.43,144.93
+685,Ingar Swamp,685,Ingar Swamp_core1,Australia,Southern Pacific,-33.76,150.45
+686,Katoomba Swamp,686,Katoomba Swamp_core1,Australia,Southern Pacific,-33.71,150.31
+687,Wanum,687,Wanum_core1,Papua New Guinea,Southern Pacific,-6.63,146.79
+688,Kings Tableland Swamp,688,Kings Tableland Swamp_core1,Australia,Southern Pacific,-33.73,150.48
+689,Lake Johnston,689,Lake Johnston_core1,Australia,Southern Pacific,-41.86,145.55
+690,Loch Sport Swamp,690,Loch Sport Swamp_core1,Australia,Southern Pacific,-37.96,147.68
+691,Long Swamp,691,Long Swamp_core1,Australia,Southern Pacific,-38.08,141.08
+692,Yawi Ti,692,Yawi Ti_core1,Papua New Guinea,Southern Pacific,-6.61,143.88
+693,Xere Wapo B,693,Xere Wapo B_core1,Australia,Southern Pacific,-22.29,166.97
+694,Xere Wapo D,694,Xere Wapo D_core1,Australia,Southern Pacific,-22.29,166.97
+695,Breadalbane,695,Breadalbane_core1,Australia,Southern Pacific,-34.8,149.51
+696,Brooks Ridge Fen,696,Brooks Ridge Fen_core1,Australia,Southern Pacific,-36.15,148.59
+697,Burralow Creek Swamp,697,Burralow Creek Swamp_core1,Australia,Southern Pacific,-33.53,150.63
+698,Chapple Vale Swamp,698,Chapple Vale Swamp_core1,Australia,Southern Pacific,-38.62,143.32
+699,Club Lake,699,Club Lake_core1,Australia,Southern Pacific,-36.4,148.31
+700,Native Companion Lagoon,700,Native Companion Lagoon_core1,Australia,Southern Pacific,-27.67,153.41
+701,Notts Swamp,701,Notts Swamp_core1,Australia,Southern Pacific,-33.8,150.4
+702,Newnes Swamp,702,Newnes Swamp_core1,Australia,Southern Pacific,-33.38,150.22
+703,Kurnell Swamp,703,Kurnell Swamp_core1,Australia,Southern Pacific,-34.03,151.21
+704,Lago Lucone,704,Lago Lucone_core1,Italy,Europe,45.55,10.48
+705,Pian Segna,705,Pian Segna_core1,Switzerland,Europe,46.18,8.63
+706,Lago di Fimon,706,Lago di Fimon_core1,Italy,Europe,45.46,11.53
+707,Piano,707,Piano_core1,Switzerland,Europe,46.32,8.62
+708,Rotten Swamp_high-res study,708,Rotten Swamp_high-res study_core1,Australia,Southern Pacific,-35.7,148.88
+709,Sundown Swamp,709,Sundown Swamp_core1,Australia,Southern Pacific,-41.16,144.66
+710,Egg Lagoon,710,Egg Lagoon_core1,Australia,Southern Pacific,-39.65,143.95
+711,Prapoce,711,Prapoce_core1,Croatia,Europe,45.42,14.07
+712,Campo Lameiro PRD1,712,Campo Lameiro PRD1_core1,Spain,Europe,42.54,-8.52
+713,Campo Lameiro PRD2,713,Campo Lameiro PRD2_core1,Spain,Europe,42.54,-8.52
+714,Campo Lameiro PRD3,714,Campo Lameiro PRD3_core1,Spain,Europe,42.54,-8.52
+715,Campo Lameiro PRD4,715,Campo Lameiro PRD4_core1,Spain,Europe,42.54,-8.52
+716,Campo Lameiro PRD5,716,Campo Lameiro PRD5_core1,Spain,Europe,42.54,-8.52
+717,Hoya del Castillo,717,Hoya del Castillo_core1,Spain,Europe,41.48,-0.15
+718,Lagaccione,718,Lagaccione_core1,Italy,Europe,42.56,11.85
+719,Valle di Castiglione,719,Valle di Castiglione_core1,Italy,Europe,41.72,12.75
+720,Lac du Loup,720,Lac du Loup_core1,France,Europe,45.18,6.53
+721,Gorgo Basso,721,Gorgo Basso_core1,Italy,Europe,37.61,12.65
+723,Fusedame HTJ-10,723,Fusedame HTJ-10_core1,Japan,North-Eastern Asia,35.08,136.18
+724,Amont,724,Amont_core1,Canada,Northern America,53.73,-74.38
+725,Aval,725,Aval_core1,Canada,Northern America,53.41,-73.86
+726,Lac des Ilets,726,Lac des Ilets_core1,Canada,Northern America,48.19,-71.24
+727,Queens Swamp Core QS 3,727,Queens Swamp Core QS 3_core1,Australia,Southern Pacific,-33.9,150.59
+728,Worimi Swamp,728,Worimi Swamp_core1,Australia,Southern Pacific,-32.51,152.33
+729,Wingecarribee Swamp W2,729,Wingecarribee Swamp W2_core1,Australia,Southern Pacific,-34.56,150.51
+730,Bonatoa,730,Bonatoa_core1,Fiji,Southern Pacific,-18.07,178.53
+731,Caledonia Fen,731,Caledonia Fen_core1,Australia,Southern Pacific,-37.33,146.73
+732,Lake Durankulak,732,Lake Durankulak_core1,Bulgaria,Europe,43.67,28.55
+733,Mozgovitsa River,733,Mozgovitsa River_core1,Bulgaria,Europe,41.41,23.11
+734,Lake Ostrezko-2,734,Lake Ostrezko-2_core1,Bulgaria,Europe,42.13,23.46
+735,Lake Ostrezko-3,735,Lake Ostrezko-3_core1,Bulgaria,Europe,42.13,23.46
+736,Resnikov prekop,736,Resnikov prekop_core1,Slovenia,Europe,45.97,14.54
+737,Malo Jezero,737,Malo Jezero_core1,Croatia,Europe,42.78,17.35
+738,Blundells Flat,738,Blundells Flat_core1,Australia,Southern Pacific,-35.19,148.49
+739,Warrimoo Swamp,739,Warrimoo Swamp_core1,Australia,Southern Pacific,-33.72,150.61
+740,Cobrico Swamp,740,Cobrico Swamp_core1,Australia,Southern Pacific,-38.3,143.03
+741,Mill Creek,741,Mill Creek_core1,Australia,Southern Pacific,-33.4,151.03
+742,Jibbon Lagoon,742,Jibbon Lagoon_core1,Australia,Southern Pacific,-34.08,151.15
+743,Lake Flannigan King Island,743,Lake Flannigan King Island_core1,Australia,Southern Pacific,-39.6,143.95
+744,Rotten Swamp Core 4,744,Rotten Swamp Core 4_core1,Australia,Southern Pacific,-35.7,148.88
+745,McKenzie Road Bog,745,McKenzie Road Bog_core1,Australia,Southern Pacific,-38.43,146.76
+746,Poley Creek,746,Poley Creek_core1,Australia,Southern Pacific,-37.4,145.21
+747,Wyelangta,747,Wyelangta_core1,Australia,Southern Pacific,-38.64,143.46
+748,Byenup Lagoon Site 2,748,Byenup Lagoon Site 2_core1,Australia,Southern Pacific,-34.46,116.71
+749,Navatu,749,Navatu_core1,Australia,Southern Pacific,-18.07,178.53
+750,Sari,750,Sari_core1,Australia,Southern Pacific,-16.63,179.5
+751,Tagamaucia,751,Tagamaucia_core1,Australia,Southern Pacific,-16.49,-179.56
+752,Vunimoli,752,Vunimoli_core1,Australia,Southern Pacific,-18.22,177.88
+753,Waitabu,753,Waitabu_core1,Australia,Southern Pacific,-18.23,-178.78
+754,Sarup Sø,754,Sarup Sø_core1,Denmark,Europe,55.2,10.06
+755,Holtjarnen,755,Holtjarnen_core1,Sweden,Europe,60.65,14.92
+756,Koltjarnen,756,Koltjarnen_core1,Sweden,Europe,61.82,16.4
+757,Lac St Ana,757,Lac St Ana_core1,Romania,Europe,46.13,25.89
+758,Beaver2,758,Beaver2_core1,United States,Northern America,44.91,-123.3
+759,Adi Kolen I,759,Adi Kolen I_core1,Ethiopia,Eastern Africa,13.33,39.36
+760,Adi Kolen II,760,Adi Kolen II_core1,Ethiopia,Eastern Africa,13.33,39.36
+761,Adi Kolen III,761,Adi Kolen III_core1,Ethiopia,Eastern Africa,13.33,39.36
+762,Mai Maikden I,762,Mai Maikden I_core1,Ethiopia,Eastern Africa,13.58,39.56
+763,Mai Maikden II,763,Mai Maikden II_core1,Ethiopia,Eastern Africa,13.58,39.56
+764,Mai Maikden III,764,Mai Maikden III_core1,Ethiopia,Eastern Africa,13.58,39.57
+765,Adigrat,765,Adigrat_core1,Ethiopia,Eastern Africa,14.27,39.44
+766,Hardibo,766,Hardibo_core1,Ethiopia,Eastern Africa,11.23,39.76
+767,Hayk,767,Hayk_core1,Ethiopia,Eastern Africa,11.35,39.71
+768,Lake Selina,768,Lake Selina_core1,Australia,Southern Pacific,-41.88,145.6
+768,Lake Selina,10126,TAS1402,Australia,Southern Pacific,-41.877722,145.609444
+769,Lombok Ridge Core G6-4_B,769,Lombok Ridge Core G6-4_B_core1,Australia,Southern Pacific,-10.78,118.06
+770,Lake Coomboo,770,Lake Coomboo_core1,Australia,Southern Pacific,-25.21,153.19
+771,Lynchs Crater,771,Lynchs Crater_core1,Australia,Southern Pacific,-17.36,145.7
+773,Dove Lake,773,Dove Lake_core1,Australia,Southern Pacific,-41.66,145.96
+773,Dove Lake,10131,TAS1507,Australia,Southern Pacific,-41.659528,145.95975
+774,Ringarooma River site I,774,Ringarooma River site I_core1,Australia,Southern Pacific,-41.3,147.61
+775,Ringarooma River Site II,775,Ringarooma River Site II_core1,Australia,Southern Pacific,-41.3,147.61
+776,Cotter Source Bog  margin,776,Cotter Source Bog  margin_core1,Australia,Southern Pacific,-35.96,148.81
+777,Dalhousie Springs,777,Dalhousie Springs_core1,Australia,Southern Pacific,-26.41,135.52
+778,Micalong Swamp,778,Micalong Swamp_core1,Australia,Southern Pacific,-35.33,148.51
+779,Mulloon,779,Mulloon_core1,Australia,Southern Pacific,-35.44,149.55
+780,Snowy Flats,780,Snowy Flats_core1,Australia,Southern Pacific,-35.54,148.47
+781,Solomons Jewel Lake,781,Solomons Jewel Lake_core1,Australia,Southern Pacific,-41.8,146.26
+782,Yaouk Swamp,782,Yaouk Swamp_core1,Australia,Southern Pacific,-35.49,148.5
+783,Bega Swamp,783,Bega Swamp_core1,Australia,Southern Pacific,-36.51,149.5
+784,Bolin Billabong combined core,784,Bolin Billabong combined core_core1,Australia,Southern Pacific,-37.76,145.06
+785,Evoran Pond,785,Evoran Pond_core1,Australia,Southern Pacific,-18.76,169.01
+786,Fred South Swamp,786,Fred South Swamp_core1,Australia,Southern Pacific,-38.13,141.78
+787,Hogan's Billabong,787,Hogan's Billabong_core1,Australia,Southern Pacific,-36.02,146.71
+788,Lake Hordern,788,Lake Hordern_core1,Australia,Southern Pacific,-38.78,143.46
+789,Lake Surprise,789,Lake Surprise_core1,Australia,Southern Pacific,-38.06,141.92
+790,Nadrau,790,Nadrau_core1,Fiji,Southern Pacific,-17.75,177.88
+791,Nekkeng,791,Nekkeng_core1,Palau,Southern Pacific,7.45,134.52
+792,Ngardmau,792,Ngardmau_core1,Palau,Southern Pacific,7.6,134.57
+793,Ngerchau,793,Ngerchau_core1,Palau,Southern Pacific,7.63,134.52
+794,Ngerdok 2,794,Ngerdok 2_core1,Palau,Southern Pacific,7.52,134.6
+795,Olbed 1,795,Olbed 1_core1,Palau,Southern Pacific,7.5,134.54
+796,Ringarooma Humus site 2,796,Ringarooma Humus site 2_core1,Australia,Southern Pacific,-41.3,147.61
+797,Stockyard Swamp_Hunter Island,797,Stockyard Swamp_Hunter Island_core1,Australia,Southern Pacific,-40.55,144.75
+798,Tyrendarra Swamp,798,Tyrendarra Swamp_core1,Australia,Southern Pacific,-38.19,141.76
+799,Laguna Verde,799,Laguna Verde_core1,El Salvador,Central America,13.89,-89.78
+800,Laguna Cuzcachapa,800,Laguna Cuzcachapa_core1,El Salvador,Central America,13.98,-89.68
+801,Laguna Llana del Espino,801,Laguna Llana del Espino_core1,El Salvador,Central America,13.95,-89.52
+802,Laguna Santa Elena,802,Laguna Santa Elena_core1,Panama,Central America,8.56,-82.56
+803,Marcacocha,803,Marcacocha_core1,Peru,Southern America,-13.21,-72.2
+804,Yano,804,Yano_core1,Palau,Southern Pacific,7.38,134.54
+805,Laguna Pompal,805,Laguna Pompal_core1,Mexico,Central America,18.37,-94.95
+806,Laguna Lincoln,806,Laguna Lincoln_core1,Chile,Southern America,-45.36,-74.06
+807,Laguna Lofel,807,Laguna Lofel_core1,Chile,Southern America,-44.92,-74.32
+808,Laguna Six Minutes,808,Laguna Six Minutes_core1,Chile,Southern America,-46.41,-74.33
+809,Laguna Stibnite,809,Laguna Stibnite_core1,Chile,Southern America,-46.41,-74.4
+810,Laguna Marcelo,810,Laguna Marcelo_core1,Chile,Southern America,-46.46,-74.16
+811,Lago Guanaco_B,811,Lago Guanaco_B_core1,Chile,Southern America,-51.03,-72.83
+812,Carajas,812,Carajas_core1,Brazil,Southern America,-6,-50.16
+813,Lower Gaylor Lake,813,Lower Gaylor Lake_core1,United States,Northern America,37.9,-119.28
+814,Barrett Lake,814,Barrett Lake_core1,United States,Northern America,37.59,-119
+815,Lago Dell'Accesa,815,AC05macro,Italy,Europe,42.987932916273934,10.895122289657593
+816,Ngerkell,816,Ngerkell_core1,Palau,Southern Pacific,7.6,134.62
+817,Mela Swamp,817,Mela Swamp_core1,Solomon,Southern Pacific,-9.47,160.08
+818,Ringarooma Humus Site 1,818,Ringarooma Humus Site 1_core1,Australia,Southern Pacific,-41.3,147.61
+819,Lynchs Crater_Holocene core,819,Lynchs Crater_Holocene core_core1,Australia,Southern Pacific,-17.36,145.7
+820,Neon,820,Neon_core1,Australia,Southern Pacific,-8.47,147.3
+821,Boigu Gawat Core 2,821,Boigu Gawat Core 2_core1,Australia,Southern Pacific,-10.1,142.14
+822,Crevice Lake freeze core,822,Crevice Lake freeze core_core1,United States,Northern America,45,-110.57
+823,Graham lake,823,Graham lake_core1,Canada,Northern America,45.18,-77.35
+824,High lake,824,High lake_core1,Canada,Northern America,44.51,-76.6
+825,Caotanhu relic site,825,Caotanhu relic site_core1,China,Central Asia,44.42,113.02
+826,Aracatuba,826,Aracatuba_core1,Brazil,Southern America,-25.91,-48.98
+827,Serra da Bocaina 2,827,Serra da Bocaina 2_core1,Brazil,Southern America,-22.71,-44.56
+828,Serra da Bocaina 1,828,Serra da Bocaina 1_core1,Brazil,Southern America,-22.74,-44.55
+829,Binnewater,829,Binnewater_core1,United States,Northern America,41.41,-74.55
+830,Hyde Park,830,Hyde Park_core1,United States,Northern America,41.78,-73.89
+831,Lake Wangoom LW87 core,831,Lake Wangoom LW87 core_core1,Australia,Southern Pacific,-38.35,142.6
+832,GeoB1023-5,832,GeoB1023-5_core1,Namibia,Southern Africa,-17.15,11.01
+833,ODP1078C,833,ODP1078C_core1,Angola,Central Africa,-11.91,13.4
+838,Foy Freeze Core,838,Foy Freeze Core_core1,United States,Northern America,48.16,-114.35
+839,Aguada de Petapilla,839,Aguada de Petapilla_core1,Honduras,Central America,14.86,-89.12
+840,Cantarrana,840,Cantarrana_core1,Costa Rica,Central America,10.43,-84
+841,Battaglia,841,Battaglia_core1,Italy,Europe,41.9,16.13
+842,Hula,842,Hula_core1,Turkey,Middle East,33.04,35.37
+843,Ackgol,843,Ackgol_core1,Turkey,Middle East,37.3,33.44
+844,Lago della Costa  AP2,844,Lago della Costa  AP2_core1,Italy,Europe,45.27,11.74
+845,na mahu_Ljubljansko barje,845,na mahu_Ljubljansko barje_core1,Slovenia,Europe,45.97,14.54
+846,Three Creeks,846,Three Creeks_core1,United States,Northern America,44.09,-121.62
+847,Todd Lake,847,Todd Lake_core1,United States,Northern America,44.02,-121.68
+848,Tumalo Lake,848,Tumalo Lake_core1,United States,Northern America,44.02,-121.54
+849,Butler Lake,849,Butler Lake_core1,United States,Northern America,43.66,-88.13
+850,Seven Lake,850,Seven Lake_core1,United States,Northern America,43.61,-88.14
+851,Laguna Bonillita,851,Laguna Bonillita_core1,Costa Rica,Central America,9.99,-83.61
+852,Wilson Bog,852,Wilson Bog_core1,Australia,Southern Pacific,-34.97,138.69
+853,Lake Eyre_Core LE 82-2,853,Lake Eyre_Core LE 82-2_core1,Australia,Southern Pacific,-28.5,137.25
+854,Lake Frome,854,Lake Frome_core1,Australia,Southern Pacific,-30.68,139.78
+855,Lake Tyrrell1,855,Lake Tyrrell1_core1,Australia,Southern Pacific,-35.31,142.78
+856,Lake Tyrrell2,856,Lake Tyrrell2_core1,Australia,Southern Pacific,-35.31,142.78
+857,Lake Nicaragua_LC-4,857,Lake Nicaragua_LC-4_core1,Nicaragua,Central America,11.76,-85.87
+858,Laguna Metapan,858,Laguna Metapan_core1,El Salvador,Central America,14.3,-89.47
+859,Pie de Gigante,859,Pie de Gigante_core1,Nicaragua,Central America,11.38,-86.03
+860,Laguna Herradura,860,Laguna Herradura_core1,Mexico,Central America,22.01,-98.15
+861,Charco Verde,861,Charco Verde_core1,Nicaragua,Central America,11.47,-85.63
+862,Pichilafquen,862,Pichilafquen_core1,Chile,Southern America,-39.22,-72.2
+863,Cambell Lake CA,863,Cambell Lake CA_core1,United States,Northern America,41.53,-123.1
+864,Sanger Lake CA,864,Sanger Lake CA_core1,United States,Northern America,41.9,-123.64
+865,Taylor Lake CA,865,Taylor Lake CA_core1,United States,Northern America,41.36,-122.96
+866,Upper Squaw Lake,866,Upper Squaw Lake_core1,United States,Northern America,42.03,-123.01
+871,Storasjo,871,Storasjo_core1,Sweden,Europe,56,15
+872,Lago Perso,872,Lago Perso_core1,Italy,Europe,44.92,6.8
+873,Wildcat Lake,873,Wildcat Lake_core1,United States,Northern America,37.96,-122.78
+874,Glenmire,874,Glenmire_core1,United States,Northern America,37.99,-122.77
+875,Yaguarú,875,Yaguarú_core1,Bolivia,Southern America,-15.6,-63.21
+876,Salvador,876,Salvador_core1,Dominican Republic,Central America,18.79,-70.88
+877,Castilla,877,Castilla_core1,Dominican Republic,Central America,18.79,-70.87
+878,Lake Oswego,878,Lake Oswego_core1,United States,Northern America,45.41,-122.66
+879,Porter Lake,879,Porter Lake_core1,United States,Northern America,44.44,-123.24
+880,Warner Lake,880,Warner Lake_core1,United States,Northern America,44.24,-122.95
+881,Creag na Caillich,881,Creag na Caillich_core1,United Kingdom,Europe,56.5,-4.33
+882,Crudale,882,Crudale_core1,United Kingdom,Europe,59.01,-3.32
+883,Libouse,883,Libouse_core1,France,Europe,44.59,6.32
+884,Five Lakes,884,Five Lakes_core1,United States,Northern America,48.08,-118.92
+885,Lake Tanganyika,885,Lake Tanganyika_core1,Zambia,Central Africa,-6.55,29.97
+886,Sikijang Swamp,886,Sikijang Swamp_core1,Indonesia,South-Eastern Asia,-2.25,101.5
+887,Clayoquot Lake,887,Clayoquot Lake_core1,Canada,Northern America,49.15,-125.3
+888,Kuusivaara Nature Reserve Norrbotten,888,Kuusivaara Nature Reserve Norrbotten_core1,Sweden,Europe,66.61,23.29
+889,Makkassjon,889,Makkassjön_core1,Sweden,Europe,66.67,20.57
+890,Lattok Arjeplog,890,Lattok Arjeplog_core1,Sweden,Europe,65.93,18.39
+891,Raigejegge Arjeplog,891,Raigejegge Arjeplog_core1,Sweden,Europe,66.2,18.19
+892,Lövnäs Arjeplog,892,Lövnäs Arjeplog_core1,Sweden,Europe,66.3,17.87
+893,Abborrtjärnen Scandes Mountains,893,Abborrtjärnen Scandes Mountains_core1,Sweden,Europe,63.8,14.37
+894,Styggtjärnen Scandes Mountains,894,Styggtjärnen Scandes Mountains_core1,Sweden,Europe,62.31,13.56
+895,Råshult Southern Småland,895,Råshult Southern Småland_core1,Sweden,Europe,56.61,14.2
+896,Kalvaberget Biskopstorp Reserve,896,Kalvaberget Biskopstorp Reserve_core1,Sweden,Europe,56.81,12.9
+897,Nynäs,897,Nynäs_core1,Sweden,Europe,58.84,17.38
+898,Hunnemara Lake Blekinge coast,898,Hunnemara Lake Blekinge coast_core1,Sweden,Europe,56.16,14.89
+899,Smygen Bay Blekinge coast,899,Smygen Bay Blekinge coast_core1,Sweden,Europe,56.15,15.11
+900, Sjuodjijaure Lake,900, Sjuodjijaure Lake_core1,Sweden,Europe,67.36,18.06
+901,Skärsgölarna Hornsö-Allgunnen area,901,Skärsgölarna Hornsö-Allgunnen area_core1,Sweden,Europe,56.99,16.1
+902,Lake Makkassjon,902,Lake Makkassjön_core1,Sweden,Europe,66.67,20.57
+903,Trygâsen area Särna region,903,Trygâsen area Särna region_core1,Sweden,Europe,61.69,13.15
+904,Bråtamossen Småland Uplands,904,Bråtamossen Småland Uplands_core1,Sweden,Europe,57.67,14.52
+905,"Bökeberg III Skåne, near Yddingesjön",905,"Bökeberg III Skåne, near Yddingesjön_core1",Sweden,Europe,55.54,13.25
+906,Siggaboda Reserve Stensjönäs,906,Siggaboda Reserve Stensjönäs_core1,Sweden,Europe,56.46,14.57
+907,Fiby Forest,907,Fiby Forest_core1,Sweden,Europe,59.87,17.36
+908,Råshult Southern Småland_B,908,Råshult Southern Småland_B_core1,Sweden,Europe,56.61,14.2
+909,Djäknabygd Southern Småland,909,Djäknabygd Southern Småland_core1,Sweden,Europe,56.61,14.2
+910,Penningholme Lake Uddjaure,910,Penningholme Lake Uddjaure_core1,Sweden,Europe,66.03,17.43
+911,Skallskog lagre mire,911,Skallskog lagre mire_core1,Sweden,Europe,60.64,14.86
+912,Eriksberg Nature Reserve (suserup skov),912,Eriksberg Nature Reserve (suserup skov)_core1,Sweden,Europe,55.36,11.56
+913,Sörevik Island of Senoren,913,Sörevik Island of Senoren_core1,Sweden,Europe,56.11,15.76
+914,Kalvöviken Biskopsmåla Peninsula,914,Kalvöviken Biskopsmåla Peninsula_core1,Sweden,Europe,56.16,15.1
+915,Storasjö Småland,915,Storasjö Småland_core1,Sweden,Europe,56.92,15.29
+916,Grostjørna Setesdal Valley,916,Grostjørna Setesdal Valley_core1,Norway,Europe,58.54,7.75
+917,Kilden Islet of Melkøya,917,Kilden Islet of Melkøya_core1,Norway,Europe,70.67,23.64
+918,Kapteinstjørn Siljan,918,Kapteinstjørn Siljan_core1,Norway,Europe,59.33,9.66
+919,Site 3 Tyterud,919,Site 3 Tyterud_core1,Norway,Europe,58.65,8.62
+920,Site 8 Tyterud,920,Site 8 Tyterud_core1,Norway,Europe,59.04,11.77
+921,Ristijärvi Northern Karelia,921,Ristijärvi Northern Karelia_core1,Finland,Europe,63.61,28.95
+922,Lake Pönttölampi North Karelia,922,Lake Pönttölampi North Karelia_core1,Finland,Europe,63.16,30.96
+923,Lake Storträsk Sipoo,923,Lake Storträsk Sipoo_core1,Finland,Europe,60.26,25.16
+924,Lake Hältingträsk Sipoo,924,Lake Hältingträsk Sipoo_core1,Finland,Europe,60.26,25.23
+925,Lake Hampträsk Sipoo,925,Lake Hampträsk Sipoo_core1,Finland,Europe,60.28,25.26
+926,Lake Laukunlampi,926,Lake Laukunlampi_core1,Finland,Europe,62.66,29.16
+927,Kontolanrahka bog Pöytyä,927,Kontolanrahka bog Pöytyä_core1,Finland,Europe,60.79,22.77
+928,Iso Lehmälampi_B,928,Iso Lehmälampi_B_core1,Finland,Europe,60.35,24.6
+929,Etu-Mustajärvi_B,929,Etu-Mustajärvi_B_core1,Finland,Europe,60.98,25
+930,Ylimmäinen Kuivajärvi_B,930,Ylimmäinen Kuivajärvi_B_core1,Finland,Europe,66.36,29.61
+931,Putaanlampi_B,931,Putaanlampi_B_core1,Finland,Europe,66.38,29.41
+932,Jierstivaara_B,932,Jierstivaara_B_core1,Finland,Europe,68.6,23.57
+933,Lake Orijärvi,933,Lake Orijärvi_core1,Finland,Europe,61.66,27.23
+934,Suserup Skov Sjælland,934,Suserup Skov Sjælland_core1,Denmark,Europe,55.36,11.56
+935,Lake Solsø,935,Lake Solsø_core1,Denmark,Europe,56.12,8.62
+936, Lake Skånsø,936, Lake Skånsø_core1,Denmark,Europe,56.51,8.83
+937,Dallund So North Funen,937,Dallund Sø North Funen_core1,Denmark,Europe,55.48,10.26
+947,Canada del Gitano,947,Canada del Gitano_core1,Spain,Europe,37.23,-2.7
+949,Fuldera-Palu,949,Fuldera-Palu_core1,Switzerland,Europe,46.61,10.36
+951,Lac Superieur de Fully,951,Lac Superieur de Fully_core1,Switzerland,Europe,46.3,7.15
+952,Les Ambrurnex Mire,952,Les Ambrurnex Mire_core1,Switzerland,Europe,46.54,6.23
+975,Tourbiere des Narses Morte,975,Tourbiere des Narses Morte_core1,France,Europe,44.43,3.6
+979,Sägistalsee,979,Sägistalsee_core1,Switzerland,Europe,46.68,7.98
+982,Bibersee,982,Bibersee_core1,Switzerland,Europe,47.21,8.47
+987,Etang de la Gruere,987,Etang de la Gruere_core1,Switzerland,Europe,47.23,7.04
+989,Glaswaldsee,989,Glaswaldsee_core1,Germany,Europe,48.42,8.24
+990,Batorliget,990,Batorliget_core1,Romania,Europe,47.75,22.5
+991,Bialoweiza forest I,991,Bialoweiza forest I_core1,Belarus,Europe,52.08,23.97
+992,Hornstaad,992,Hornstaad_core1,Germany,Europe,47.69,8.9
+993,Birzulio Sasmauka,993,Birzulio Sasmauka_core1,Lithuania,Europe,55.78,22.43
+1004,Kyerbwato,1004,Kyerbwato_core1,Uganda,Central Africa,0.43,30.32
+1005,Kanyamukali,1005,Kanyamukali_core1,Uganda,Central Africa,0.4,30.23
+1006,Wandakara,1006,Wandakara_core1,Uganda,Central Africa,0.41,30.27
+1007,Kasenda,1007,Kasenda_core1,Uganda,Central Africa,0.44,30.28
+1008,Chibwera,1008,Chibwera_core1,Uganda,Central Africa,-0.15,30.14
+1009,Katinda,1009,Katinda_core1,Uganda,Central Africa,-0.22,30.1
+1010,Bogoria,1010,Bogoria_core1,Kenya,Eastern Africa,0.26,36.1
+1011,Simbi,1011,Simbi_core1,Kenya,Eastern Africa,-0.36,34.63
+1012,Naivasha,1012,Naivasha_core1,Kenya,Eastern Africa,-0.76,36.35
+1013,Yahoo Lake,1013,Yahoo Lake_core1,United States,Northern America,47.67,-124.01
+1014,Wentworth Lake,1014,Wentworth Lake_core1,United States,Northern America,48,-124.53
+1015,Panther,1015,Panther_core1,United States,Northern America,48.65,-121.03
+1016,Mt Constitution C11,1016,Mt Constitution C11_core1,United States,Northern America,48.51,-122.83
+1017,Mt Constitution C32,1017,Mt Constitution C32_core1,United States,Northern America,48.51,-122.83
+1018,Mt Constitution C38,1018,Mt Constitution C38_core1,United States,Northern America,48.52,-122.83
+1019,Bates,1019,Bates_core1,United States,Northern America,41.65,-72.01
+1020,Blaneys,1020,Blaneys_core1,United States,Northern America,41.42,-70.61
+1021,Blood ,1021,Blood _core1,United States,Northern America,42.08,-71.96
+1022,Deep,1022,Deep_core1,United States,Northern America,41.56,-70.63
+1023,Duarte Pond,1023,Duarte Pond_core1,United States,Northern America,41.42,-70.61
+1024,Duck Pond,1024,Duck Pond_core1,United States,Northern America,41.49,-70.71
+1025,Eagle Pond,1025,Eagle Pond_core1,United States,Northern America,41.69,-70.13
+1026,Fresh Pond,1026,Fresh Pond_core1,United States,Northern America,41.59,-70.53
+1027,Harlock,1027,Harlock_core1,United States,Northern America,41.4,-70.71
+1028,Ice House,1028,Ice House_core1,United States,Northern America,41.79,-69.96
+1029,Jemima,1029,Jemima_core1,United States,Northern America,41.82,-69.98
+1030,Knob Hill Pond,1030,Knob Hill Pond_core1,United States,Northern America,44.36,-72.37
+1031,Larkum Pond,1031,Larkum Pond_core1,United States,Northern America,42.16,-73.06
+1032,Levi Pond,1032,Levi Pond_core1,United States,Northern America,44.22,-72.22
+1033,Little Roy,1033,Little Roy_core1,United States,Northern America,42.67,-72.19
+1034,Marys Pond,1034,Marys Pond_core1,United States,Northern America,41.5,-70.71
+1035,North Round,1035,North Round_core1,United States,Northern America,42.84,-72.45
+1036,Pecker Pond,1036,Pecker Pond_core1,United States,Northern America,42.71,-71.96
+1037,Pickerel Pond,1037,Pickerel Pond_core1,United States,Northern America,42.17,-72.48
+1038,Quag,1038,Quag_core1,United States,Northern America,42.56,-71.95
+1039,Round Pond_B,1039,Round Pond_B_core1,United States,Northern America,41.97,-70.01
+1040,Sandy Hill Pond,1040,Sandy Hill Pond_core1,United States,Northern America,41.68,-70.36
+1041,Wickett Pond,1041,Wickett Pond_core1,United States,Northern America,42.55,-72.43
+1042,Wildwood Lake,1042,Wildwood Lake_core1,United States,Northern America,40.89,-72.67
+1043,Amber,1043,Amber_core1,United States,Northern America,43.6,-94.47
+1044,Bass,1044,Bass_core1,United States,Northern America,45.19,-94.87
+1045,Camp,1045,Camp_core1,United States,Northern America,45.15,-94.09
+1046,Eagle MN,1046,Eagle MN_core1,United States,Northern America,44.8,-93.93
+1047,Emily,1047,Emily_core1,United States,Northern America,44.31,-93.91
+1048,FishL,1048,FishL_core1,United States,Northern America,44.22,-93.66
+1049,FishS,1049,FishS_core1,United States,Northern America,44.64,-93.45
+1050,Fuller,1050,Fuller_core1,United States,Northern America,45.42,-94.07
+1051,Goose,1051,Goose_core1,United States,Northern America,44.98,-94.58
+1052,Hunt,1052,Hunt_core1,United States,Northern America,44.33,-93.44
+1053,Kelly Dudley ,1053,Kelly Dudley _core1,United States,Northern America,44.35,-93.37
+1054,Lily ,1054,Lily _core1,United States,Northern America,44.19,-93.64
+1055,Martha,1055,Martha_core1,United States,Northern America,45.14,-93.73
+1056,Minnreg,1056,Minnreg_core1,United States,Northern America,44.69,-93.31
+1057,Murphy,1057,Murphy_core1,United States,Northern America,44.71,-93.34
+1058,Union,,,United States,Northern America,,
+1059,Yeak Kara,1059,Yeak Kara_core1,Thailand,South-Eastern Asia,13.55,107.13
+1060,Yeak Laom,1060,Yeak Laom_core1,Thailand,South-Eastern Asia,13.72,107.01
+1061,Lumkat,1061,Lumkat_core1,Thailand,South-Eastern Asia,13.52,107.18
+1062,Slack,1062,Slack_core1,United States,Northern America,42.87,-83.62
+1063,Swift,1063,Swift_core1,United States,Northern America,42.88,-83.62
+1064,Sixteen,1064,Sixteen_core1,United States,Northern America,42.75,-83.28
+1065,Mahaulepu Caves,1065,Mahaulepu Caves_core1,United States,Northern America,21.89,-159.42
+1066,Alekoko Fishpond,1066,Alekoko Fishpond_core1,United States,Northern America,21.95,-159.37
+1067,Kekupua Fishpond,1067,Kekupua Fishpond_core1,United States,Northern America,21.94,-159.65
+1068,Lawai Kai Fishpond,1068,Lawai Kai Fishpond_core1,United States,Northern America,21.89,-159.5
+1069,Limahuli Bog,1069,Limahuli Bog_core1,United States,Northern America,22.22,-159.57
+1070,Kilohana Crater,1070,Kilohana Crater_core1,United States,Northern America,22,-159.42
+1071,AlakaI Swamp,1071,AlakaI Swamp_core1,United States,Northern America,22.15,-159.59
+1072,Lake Daihai,1072,Lake Daihai_core1,China,Central Asia,40.46,112.54
+1073,Appleman,1073,Appleman_core1,United States,Northern America,41.62,-85.21
+1074,Silver,1074,Silver_core1,United States,Northern America,40.35,-83.81
+1076,Sebkha Mhabeul,1076,Sebkha Mhabeul_core1,Tunisia,Northern Africa,33.41,10.84
+1077,Asi Gonia,944,Asi Gonia A_core1,Greece,Europe,35.248773384096914,24.27749991416931
+1083,Sargent Mountain Pond,,,United States,Northern America,,
+1084,Jagniecy Potok,,,Poland,Europe,,
+1085,Foret Domaniale de Compiegne,,,France,Europe,,
+1090,Cranes Moor,10003,CRM04,United Kingdom,Europe,50.82473887626607,-1.724901795
+1091,Old Place (80),10004,Old Place 80,United Kingdom,Europe,50.922,0.673
+1092,Brede Bridge,10005,Brede Bridge,United Kingdom,Europe,50.928,0.598
+1093,Pannel Bridge,10006,Pannel Bridge,United Kingdom,Europe,50.906,0.675
+1094,Pannel Farm,10007,Pannel Farm,United Kingdom,Europe,50.905,0.677
+1095,Pewis Marsh,10008,Pewis Marsh,United Kingdom,Europe,50.919,0.702
+1096,Conford,10009,Conford,United Kingdom,Europe,51.092,-0.8368
+1097,Hurston Warren,10010,Hurston Warren,United Kingdom,Europe,50.942,-0.47
+1098,William King Flour Mill,10011,Monolith 17,United Kingdom,Europe,51.5526,-0.4843
+1098,William King Flour Mill,10012,Mono 25,United Kingdom,Europe,51.5516,-0.484
+1099,Cuckoo Lough,10013,Cuckoo Lough,Ireland,Europe,52.0025,-9.5595
+1100,Cornaher Lough,10014,Cornaher Lough,Ireland,Europe,53.24601,-7.4034
+1101,Kwasebuge,10015,Kwasebuge,Tanzania,Eastern Africa,-4.292015,37.92284
+1104,Mare Tatos,10019,Tatos2010-1kyr,Mauritius,Indian Ocean,-20.21222222,57.772777777777776
+1105,Long Lake,10021,Long_lake_core,United States,Northern America,41.5,-106.37
+1109,Folly ,10027,Folly_A,Canada,Northern America,45.458264,-75.777746
+1110,Lac Labelle,10024,Labelle_A,Canada,Northern America,48.18,-79.457
+1112,Lac Nans,10023,Nans_A,Canada,Northern America,50.36863889,-74.30591667
+1113,Lac Aurélie,10026,Aurelie_A,Canada,Northern America,50.4185,-74.23544444
+1114,Avril Lake,10028,Avril_A,Canada,Northern America,49.36873889,-89.41847222
+1115,Beaver Lake,10029,Beaver_A,Canada,Northern America,49.53435,-90.40018889
+1116,Ben Lake,10030,Ben_A,Canada,Northern America,49.35695,-89.76955556
+1117,Lac Christelle,10031,Christelle_A,Canada,Northern America,49.73213889,-84.25452778
+1118,Dom Lake,10032,Dom_A,Canada,Northern America,49.43966389,-89.63203611
+1119,Lac du Berger,10033,Berger_A,Canada,Northern America,49.41850833,-90.47586944
+1120,Lac Garot,10034,Garot_A,Canada,Northern America,51.09963889,-77.5535833
+1121,Lac Huard,10035,Huard_A,Canada,Northern America,50.16413889,-86.8265
+1122,Lac Jack Pine,10036,JackPine_A,Canada,Northern America,50.27058333,-86.9623888
+1123,Lac du Loup II,10037,LoupII_A,Canada,Northern America,53.055025,-77.40052778
+1124,Lac Marie-Eve,10038,MarieEve_A,Canada,Northern America,52.06169444,-76.15227778
+1125,Lac Nano,10039,NanoA,Canada,Northern America,53.02375,-77.36425
+1126,Lac Richard,10040,Richard_A,Canada,Northern America,50.65273611,-74.68608333
+1127,Lac Schon,10041,Schon_A,Canada,Northern America,50.59491667,-77.56836111
+1128,Small Lake,10042,Small_A,Canada,Northern America,49.58116389,-90.38565
+1129,Spring Lake,10043,Spring_A,Canada,Northern America,48.57777778,-80.88072222
+1130,Lac Trefle,10044,Trefle_A,Canada,Northern America,51.85013889,-76.04513889
+1131,Twin Lake,10045,Twin_A,Canada,Northern America,50.95247222,-74.57533333
+1132,Lake Doukoulou,10046,DKL_KB3,Central African Republic,Central Africa,4.250897,18.42368
+1133,Lake Gbali,10047,GBL_KB6,Central African Republic,Central Africa,4.818114,18.26338
+1134,El Tiemblo,10048,Tiemblo_A,Spain,Europe,40.3575,-4.5263
+1135,Lake Nguengué,10049,NGG_KB4,Central African Republic,Central Africa,3.767856,18.12129
+1136,Esambu,10051,Esambu_core_name,Kenya,Eastern Africa,-2.711913,37.554357
+1137,Lanzahita,10050,Lanzahita_A,Spain,Europe,40.272,-4.935
+1138,Serranillos,10052,Serranillos_A,Spain,Europe,40.372,-4.941
+1139,Laguna del Condor,10053,LC06A,Argentina,Southern America,-42.35067885,-71.28848076
+1140,Lago Huala Hue,10054,HH08B,Argentina,Southern America,-41.51075162,-71.50751477
+1141,Laguna Padre Laguna,10055,LCar08B,Argentina,Southern America,-41.35976175,-71.50848671
+1142,Laguna la Zeta,10056,LZ09A,Argentina,Southern America,-42.89016299,-71.34937008
+1143,Lago Theobald,10057,TH09A,Argentina,Southern America,-43.43793191,-71.56181835
+1144,Lago los Niños,10059,MLN09B,Argentina,Southern America,-44.00710514,-71.49414185
+1145,Laguna la Pava,10058,LP09A,Argentina,Southern America,-44.2796729,-71.52331385
+1146,Candieira (Charco da Candieira),10060,Candieira_1985,Portugal,Europe,40.343611,-7.578056
+1147,Banyoles,10061,Banyoles SB2,Spain,Europe,42.129083,2.751844
+1148,Basa de la Mora,,,Spain,Europe,,
+1149,Castelló Lagoon,10063,Estany d'en Mornau,Spain,Europe,42.281556,3.099528
+1150,El Maíllo,,,Spain,Europe,,
+1151,Espinosa de Cerrato,10065,Franco-Múgica et al. 2001,Spain,Europe,41.956667,-3.935
+1152,Laguna de Río Seco,10066,Laguna de Río Seco 06-01,Spain,Europe,37.052057,-3.34581
+1153,Ribeira do Farelo and Ribeira da Torre,10067,Abi 05/07,Portugal,Europe,37.15,-8.6
+1154,Tubilla del Lago,10068,Tubilla 2007,Spain,Europe,41.808417,-3.572675
+1156,Lac Sélé,10085,Sele2015#Piston core,Benin,Western Africa,7.164728664507417,2.4486549996504436
+1157,Mopo Bai,10071,Site 01,Congo,Central Africa,2.2437,16.2619
+1158,Panga ya Saidi (cave),10072,PYS13column,Kenya,Eastern Africa,-3.678333,39.736111
+1159,Anderson Pond,10073,AP 1976-B,United States,Northern America,36.0284949,-85.50511631
+1160,Roe Lake,,,Canada,Northern America,,
+1161,Lake Dojran,10075,Dorjan Co1260,Macedonia,Europe,41.19122530756016,22.73263849636021
+1162,Peña Negra,10082,Peña Negra 2008,Spain,Europe,40.334722,-5.792222
+1163,Lake Ifrah,10077,Ifrah 2004,Morocco,Northern Africa,33.55929421890087,-4.930555438
+1164,Fuente de la Leche,10076,FL 2015,Spain,Europe,40.346833,-5.056861
+1165,Arroyo de las Cárcavas,10078,Cárcavas,Spain,Europe,40.841924,-4.031385
+1166,Little Lake 2018,10079,Core 93b-06a,United States,Northern America,44.16,-123.58
+1166,Little Lake 2018,10080,1993b-2006a,United States,Northern America,44.16,-123.58
+1168,Lake Sidi Ali,10084,ALI 01-10,Morocco,Northern Africa,33.06843,-4.998376
+1169,Lac Geai SBL,10092,Carottage 1977,Canada,Northern America,45.995878321717996,-73.99322196
+1172,Canal De Navarrés - Sediment Column 2,,,Spain,Europe,,
+1173,Canal de Navarrés,,,Spain,Europe,,
+1174,La Laguna,10087,Massanet point,Spain,Europe,28.49222222,-16.31833333
+1175,Laguna Grande,10088,La Laguna Grande,Spain,Europe,28.11666667,-17.25
+1175,Laguna Grande,10090,La Laguna Grande microcharcoal,Spain,Europe,28.11666667,-17.25
+1176,Laguna de Valleseco,10089,Laguna de Valleseco,Spain,Europe,28.064461,-15.56357
+1176,Laguna de Valleseco,10091,Laguna de Valleseco microcharcoal,Spain,Europe,28.064461,-15.56357
+1177,Lac à Jean-Marie Boulay,10093,BOULAYS,Canada,Northern America,48.9698,-64.4861
+1178,Lac Bride,10094,BRIDE,Canada,Northern America,47.3136,-74.5046
+1179,Donja Sipulja,10095,DS,Serbia,Europe,44.50400170727274,19.50517590625168
+1180,Garba Guracha,10096,BAL-GGU17-1,Ethiopia,Eastern Africa,6.881937628124708,39.871211623320505
+1181,Mukolo,10097,Mukolo Sediment Core,Namibia,Southern Africa,-17.77085915,23.342810008210904
+1182,Djamila,10098,Djamila,Morocco,Northern Africa,34.947,-2.552
+1183,Aït Ichou,10100,Aït Ichou,Morocco,Northern Africa,32.68757867063857,-5.496145405
+1184,Burullus Lagoon,10101,Burullus,Egypt,Northern Africa,31.395,30.677
+1185,Princessvlei,10103,PV11.3,South Africa,Southern Africa,-34.045561,18.482743
+1186,Lake Ngami,10102,LN-16,Botswana,Southern Africa,-20.44457976,22.81823579418949
+1188,Marura Sinkhole,10105,MAR2,Australia,Southern Pacific,-13.40925,135.77505
+1189,Big Willum Swamp,10106,BWIL2,Australia,Southern Pacific,-12.657,141.998
+1190,Sanamere Lagoon,10107,SAN1,Australia,Southern Pacific,-11.12315,142.35948
+1191,Sainte-Luce,10108,SM,Madagascar,Indian Ocean,-24.7780897,47.16026972222222
+1191,Sainte-Luce,10133,Stluce S 12,Madagascar,Indian Ocean,-24.77809,47.16027
+1191,Sainte-Luce,10146,S9,Madagascar,Indian Ocean,-24.77809,47.16027
+1192,St Luce Forest,,,Madagascar,Indian Ocean,,
+1193,Mandena,10147,MM,Madagascar,Indian Ocean,-24.93471,47.00325
+1194,Mandena forest,10111,M15,Madagascar,Indian Ocean,-24.9508597,47.00082
+1201,Yak2-A,10114,Yak2_A,Russia,Central Asia,61.6961944,55.574333333333335
+1202,Yak2-B,10115,Yak2_B,Russia,Central Asia,61.6974444,55.57452777777778
+1203,Yak3-A,10116,Yak3_A,Russia,Central Asia,61.7314306,55.49433333333334
+1204,Yak3-B,10117,Yak3_B,Russia,Central Asia,61.7326111,55.49186111111111
+1205,Lake Gaye,10118,TAS1102,Australia,Southern Pacific,-41.826417,145.603333
+1207,Lake Gwendolyn,10119,TAS1106,Australia,Southern Pacific,-42.262389,145.823083
+1208,Lake Nancy,10120,TAS1107,Australia,Southern Pacific,-42.258778,145.827111
+1209,Lake Vera,10121,TAS1108,Australia,Southern Pacific,-42.274583,145.879917
+1210,Lake Osborne,10122,TAS1110,Australia,Southern Pacific,-43.216222,146.759306
+1211,Lake Julia,10123,TAS1203,Australia,Southern Pacific,-41.889222,145.576139
+1212,Square Tarn,10124,TAS1205,Australia,Southern Pacific,-43.214306,146.594222
+1213,Hartz Lake,10125,TAS1207,Australia,Southern Pacific,-43.238083,146.756556
+1214,Owen Tarn,10127,TAS1501,Australia,Southern Pacific,-42.099611,145.609444
+1215,Lake Isla ,10128,TAS1503,Australia,Southern Pacific,-41.970528,145.665444
+1216,Lake Rolleston,10129,TAS1504,Australia,Southern Pacific,-41.9215,145.62475
+1217,Basin Lake TAS,10130,TAS1104,Australia,Southern Pacific,-41.980833,145.548278
+1218,"Bastani lake, Corsica ",10132,Bastani MC,France,Europe,42.06,9.13
+1219,Sangha River,10134,Site01,Congo,Central Africa,2.2437,16.2619
+1219,Sangha River,10135,Site05,Congo,Central Africa,2.2802,16.4329
+1219,Sangha River,10136,Site06,Congo,Central Africa,2.2788,16.4519
+1219,Sangha River,10137,Site07,Congo,Central Africa,2.278,16.4552
+1219,Sangha River,10138,Site08,Congo,Central Africa,2.2412,16.2613
+1219,Sangha River,10139,Site09,Congo,Central Africa,2.2272,16.2855
+1219,Sangha River,10140,Site10,Congo,Central Africa,2.2272,16.2855
+1219,Sangha River,10141,Site14,Congo,Central Africa,2.1843,16.5204
+1219,Sangha River,10142,Site13,Congo,Central Africa,2.2141,16.2524
+1219,Sangha River,10143,Site15,Congo,Central Africa,2.1637,16.5096
+1219,Sangha River,10144,Site16,Congo,Central Africa,2.2028,16.5036
+1219,Sangha River,10145,Site17,Congo,Central Africa,1.2708,16.797
+1220,La Lopé,10148,Paurosa,Gabon,Central Africa,-0.213180967,11.58870801
+1220,La Lopé,10149,Lopé2,Gabon,Central Africa,-0.217817,11.58349003
+1220,La Lopé,10150,Vitex,Gabon,Central Africa,-0.16324603,11.58571098
+1220,La Lopé,10151,Citron,Gabon,Central Africa,-0.168618998,11.58720204
+1220,La Lopé,10152,Yao,Gabon,Central Africa,-0.172074,11.58781
+1220,La Lopé,10153,Tortue-Savane,Gabon,Central Africa,-0.213077031,11.59133297
+1221,Angoubou,10154,Angoubou,Gabon,Central Africa,-1.629489,13.605219
+1222,Akiéni,10155,Akiéni,Gabon,Central Africa,-1.308006,13.935265
+1224,Barombi,10158,B14,Cameroon,Central Africa,4.660087,9.403679
+1225,Lac Maudit,10156,LM-1B,Madagascar,Indian Ocean,-12.581895,49.150394
+1226,Lac Maharasika,10157,LMAHA-B,Madagascar,Indian Ocean,-12.625393,49.1772
+1227,Vankervelsvlei,10159,VVV10.1,South Africa,Southern Africa,-34.011862,22.901988
+1228,Lake Edward,10160,E96-5M,Uganda,Central Africa,-0.226226224,29.82376098632813
+1228,Lake Edward,10161,E96-1P,Uganda,Central Africa,-0.290770242,29.79354858398438
+1229,Rietvlei-Still Bay,10162,RVSB-2,South Africa,Southern Africa,-34.353478,21.518586
+1230,Eilandvlei,10163,EV13,South Africa,Southern Africa,-33.993876,22.640271
+1231,Malahlapanga,10164,Malahlapanga,South Africa,Southern Africa,-22.888889,31.0405
+1232,Lake Ngofouo,10165,NGOA,Congo,Central Africa,-3.79555556,14.8047222
+1233,Dead Sea,10168,5017-1-A,Jordan,Middle East,31.50805,35.471
+1238,Emile_Lake,10169,emile_476,Canada,Northern America,64.0544,-114.10583
+1239,Izaac_Lake,10170,izaac_120,Canada,Northern America,64.0988,-114.17583
+1240,Paradis_Lake,10171,paradis_387,Canada,Northern America,64.006388,-114.98861
+1241,Saxon_Lake,10172,saxon_57,Canada,Northern America,63.80722,-114.975833
+1242,Laguna Portezuelo,10173,LP13,Argentina,Southern America,-37.91,-71.04
+1243,Lake Khamra,10174,EN18232-3,Russia,Central Asia,59.99091,112.98373
+1244,Bambili,10175,Bambili 1,Cameroon,Central Africa,5.932989,10.243314
+1245,Etang Fer-de-Lance,,,Canada,Northern America,,
+1246,Big Reedy Lagoon,10176,Big Reedy,Australia,Southern Pacific,-40.3589,148.2381
+1247,truwana East Coast Lagoon,10177,truwana East Coast,Australia,Southern Pacific,-40.3311,148.2381
+1248,Green Lagoon,10178,Green,Australia,Southern Pacific,-40.44297,148.14384
+1249,Yakka Lagoon,10179,Yakka,Australia,Southern Pacific,-40.3589,148.2447
+1250,Bécasse,10180,becasse,Canada,Northern America,49.4373193,-73.666994
+1251,Cacahuète,10182,cacahuete,Canada,Northern America,50.23301024,-72.59146982
+1252,Galinette,10181,galinette,Canada,Northern America,49.37977994,-73.67924958
+1253,Gitans,10183,gitans,Canada,Northern America,50.38740364,-73.0363737
+1254,Syrah,10184,syrah,Canada,Northern America,50.46277732,-72.82298461
+1255,Ténia,10185,tenia,Canada,Northern America,50.24008155,-72.57553683
+1257,White Lake,10186,White Lake-1,Russia,Central Asia,55.26604799219707,40.20215034484863
+1258,Zaborovka,10187,Zaborovka,Russia,Central Asia,57.09321355496195,32.44563102722169
+1259,Krivetskiy Moh,10189,Krivetskiy Moh,Russia,Central Asia,57.10405553071406,32.359247803688056
+1260,Mostovoe,10190,Mostovoe,Russia,Central Asia,55.111699,40.996218
+1261,Lake Challa,,,Tanzania,Eastern Africa,,
+1262,Apple Orchard Lagoon,10191,Apple Orchard Lagoon,Australia,Southern Pacific,-40.325,148.2161
+1263,Bumpy Lagoon,10192,Bumpy Lagoon,Australia,Southern Pacific,-40.4515,148.071
+1264,Piano Point Lagoon,10193,Piano Point Lagoon,Australia,Southern Pacific,-40.4367,148.0503
+1265,Tobacco Lagoon,10194,Tobacco Lagoon,Australia,Southern Pacific,-40.3228,148.3603
+1266,Lake Satagay 2.0,10195,EN18224-4,Russia,Central Asia,63.07816,117.99806
+1267,Ébène,10196,Ébène,Russia,Central Asia,51.482681,104.836725
+1268,Jarod,10197,Jarod,Russia,Central Asia,51.4475,104.840278
+1269,GeoB10053-7,10198,GeoB10053-7(test),Indonesia,South-Eastern Asia,-8.6765,112.8725
+1270,Lake Jaczno,10199,JAC-11/4,Poland,Europe,54.27305349155744,22.871174812316898
+1271,Jvari,10200,Jvari 2003,Abkhazia,Central Asia,41.8387,44.7408
+1272,Tunguska National Reservation,,,Russia,Central Asia,,
+1274,Lake Cheko,10201,Cheko-2016-1,Russia,Central Asia,60.965,101.859
+1274,Lake Cheko,10231,Cheko-2016,Russia,Central Asia,60.9651,101.8592
+1275,Zapovednoye,10202,ZAP-2,Russia,Central Asia,60.528,101.728
+1275,Zapovednoye,10232,Zap-2015,Russia,Central Asia,60.5281,101.7285
+1276,Gornoe,10203,Gornoe,Russia,Central Asia,64.232512,100.034155
+1277,Lake Tura,10188,unknown_core_name,Russia,Central Asia,64.293065,100.201285
+1278,Tura_airport,10204,Tura-1,Russia,Central Asia,64.308443,100.434727
+1279,Tura-2,10205,Tura-2,Russia,Central Asia,64.324997,100.248306
+1280,Tura-3,10206,Tura-3,Russia,Central Asia,64.324396,100.25123
+1281,Nizhnyaya Tunguska,10207,Nizhnyaya Tunguska - 1,Russia,Central Asia,64.166175,100.532136
+1281,Nizhnyaya Tunguska,10208,Nizhnyaya Tunguska - 2,Russia,Central Asia,64.167196,100.523785
+1282,Tura,10209,WAITP-1,Russia,Central Asia,64.289805,100.197536
+1283,Big Graviika,10210,Igarka-3,Russia,Central Asia,67.531477,86.635721
+1283,Big Graviika,10212,Igarka-1,Russia,Central Asia,67.531735,86.634907
+1284,Baldwin Lake,10211,BDL12,United States,Northern America,34.276446,-116.806408
+1286,Gervi,10213,Gervi,Russia,Central Asia,69.470502,91.440279
+1288, Lake Glukhoe,10214,GYXO,Russia,Central Asia,68.170594,92.203397
+1289,Lake Bezymyannoe,10215, PTHE,Russia,Central Asia,68.204814,92.183628
+1290,Bunisyak,10216,Bunisyak,Russia,Central Asia,69.384663,91.567554
+1291,Saxon,,,Canada,Northern America,,
+1292,Wular Lake,,,India,South-Eastern Asia,,
+1294,Lake 402,10218,EN21402-4,Russia,Central Asia,63.32696,141.08434
+1295,Lake 408,10219,EN21408-2,Russia,Central Asia,63.38775,140.57524
+1296,Lake 410,10220,EN21410-1,Russia,Central Asia,63.23035,142.95733
+1297,Lake 419,10221,EN21419-2,Russia,Central Asia,62.08767,132.3534
+1298,Lake 421,10222,EN21421-2,Russia,Central Asia,62.01409,132.41266
+1299,Lake 433,10223,EN21433-1,Russia,Central Asia,62.13806,130.87054
+1300,Lake 437,10224,EN21437-1,Russia,Central Asia,62.3433,130.37467
+1301,Lake 449,10225,EN21449-1,Russia,Central Asia,61.7471,130.5389
+1302,Lake 455,10226,EN21455-2,Russia,Central Asia,61.90249,130.41174
+1303,Shira ,10227,Shira-March,Russia,Central Asia,54.5065,90.1942
+1303,Shira ,10230,Shira-march-2021-particles,Russia,Central Asia,54.50655,90.19425
+1304,Uchum,10228,Uchum_march_2022,Russia,Central Asia,55.0945,89.7234
+1305,Suzdalevo,10229,Suzd_2019,Russia,Central Asia,60.655,102.0003
+1306,Peyungda,10233,Peyungda-2022,Russia,Central Asia,60.6196,101.6407
