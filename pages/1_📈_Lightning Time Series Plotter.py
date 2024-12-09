@@ -278,7 +278,8 @@ def plot_a_graph_time_series(dataset_name, datasets):
     plt.figure(figsize=(10, 6))
 
     csvs = {}
-    
+    print("Dataset name", dataset_name)
+    print(datasets)
     dataset_files = datasets[dataset_name]
     time = dataset_files[3]
     selected_frame = get_selected_frame(dataset_files, lat_point, lon_point)
@@ -367,7 +368,7 @@ def plot_time_series(chosen_dataset):
     else: 
         dataset_name = chosen_dataset.upper()
         plot_a_scrollable_series(dataset_name, dataset)
-        csvs, img_buffer = plot_a_graph_time_series(dataset, dataset)
+        csvs, img_buffer = plot_a_graph_time_series(dataset_name, dataset)
         
     # Generate zipped file with time series CSVs  
     zipped_buffer = create_zip_memory(csvs)
