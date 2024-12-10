@@ -18,7 +18,7 @@ st.markdown("""
 # Select a Dataset
 chosen_dataset = st.selectbox(
     "Pick a Dataset to plot or choose all!",
-    ("TraCE", "FAMOUS", "LOVECLIM", "All"))
+    ("TraCE", "FAMOUS", "LOVECLIM", "All", "Precipitation"))
 
 
 # Enter lat and Lon
@@ -84,7 +84,19 @@ def load_a_dataset(dataset):
         print(f"Shape of file {paths[i]}: {file.shape}")
 
     return dataset_files
+   
+def load_precip(dataset_short_form): 
+    paths = [
+        os.path.join(file_path, f'{dataset_short_form}_precip_mmday.npy'),
+        os.path.join(file_path, f'{dataset_short_form}_lat.npy'),
+        os.path.join(file_path, f'{dataset_short_form}_lon.npy'),
+        os.path.join(file_path, f'{dataset_short_form}_time_kaBP.npy')
+    ]
+     
+    dataset_files = [np.load(path) for path in paths]
     
+    return dataset_files
+
 def load_datasets(dataset):
     print("dataset name", dataset)
     dataset_files_list = {}
@@ -95,8 +107,20 @@ def load_datasets(dataset):
         
         dataset_files_list[FAMOUS] = famous_files
         dataset_files_list[TRACE] = trace_files
-        dataset_files_list[LOVECLIM] = loveclim_files        
+        dataset_files_list[LOVECLIM] = loveclim_files   
+        
+             
         print("length of dataset files (should be 3)", len(dataset_files_list))
+
+    if dataset == "PRECIPITATION": 
+        loveclim_files = load_precip(LOVECLIM)
+        trace_files = load_precip(TRACE)
+        famous_files = load_precip(FAMOUS)
+        
+        dataset_files_list[FAMOUS] = famous_files
+        dataset_files_list[TRACE] = trace_files
+        dataset_files_list[LOVECLIM] = loveclim_files   
+        
     if dataset == LOVECLIM: 
         loveclim_files = load_a_dataset(LOVECLIM)
         dataset_files_list[LOVECLIM] = loveclim_files   
@@ -126,6 +150,11 @@ def np_to_csv(col1_name, col1_data, col2_name, col2_data):
 def create_df(selected_frame, time, key): 
     
     df = pd.DataFrame({'lightning': selected_frame, 'time': time, 'dataset': key})
+    
+    return df
+def create_df_precip(selected_frame, time, key): 
+    
+    df = pd.DataFrame({'precipitation': selected_frame, 'time': time, 'dataset': key})
     
     return df
     
@@ -350,6 +379,43 @@ def create_zip_memory(files):
     
     return buf
 
+    
+def plot_precip(datasets): 
+    # Plotting
+    fig, ax = plt.subplots(figsize=(10, 6))
+    data_frames = []
+
+    csvs = {}
+
+    # Generated the frame for each data set
+    for key, dataset_files in datasets.items():
+
+        time = dataset_files[3]
+        selected_frame = get_selected_frame(dataset_files, lat_point, lon_point)
+        df = create_df_precip(selected_frame, time, key)
+
+        data_frames.append(df)
+
+        print(f"generating {key} CSV")
+        csv = np_to_csv("Time (kaBP)", time, "Precipitation (mm/day)", selected_frame)
+        csvs[f"{key}_{lat_point}_{lon_point}.csv"] = csv
+        
+    # Combine all data frames into one
+    combined_data = pd.concat(data_frames, ignore_index=True)
+    
+    fig = px.line(combined_data, x='time', y='precipitation', color='dataset',
+                title=f'Time series of precipitation at {lat_point}, {lon_point}',
+                labels={'time': 'Time (kaBP)', 'precipitation': 'Precipitation (mm/day)'},
+                color_discrete_map={'TRACE': 'blue', 'FAMOUS': 'green', 'LOVECLIM': 'orange'})
+
+    fig.update_traces(mode='lines', showlegend=True)
+
+    fig.update_layout(xaxis_title='Time (kaBP)', yaxis_title='Precipitation (mm/day)')
+    
+    st.plotly_chart(fig, use_container_width=True)
+
+    return csvs
+
 def plot_time_series(chosen_dataset): 
     """Given the option chosen, plots a time series (scrollable and static) for all datasets or just one. 
     Renders 'Download CSV files' link and 'Download Time Series' link. 
@@ -364,7 +430,14 @@ def plot_time_series(chosen_dataset):
     if dataset_name == 'ALL': 
         plot_scrollable_series(dataset)
         csvs, img_buffer = plot_graph_time_series(dataset)
+    elif dataset_name == 'PRECIPITATION': 
+        csvs = plot_precip(dataset)
+        zipped_buffer = create_zip_memory(csvs)
 
+        # Generate link to download CSVs as zipped file 
+        download_url = create_download_link(zipped_buffer, 'csv files', 'Download CSV files')
+        st.markdown(download_url, unsafe_allow_html=True)
+        return
     else: 
         dataset_name = chosen_dataset.upper()
         plot_a_scrollable_series(dataset_name, dataset)
